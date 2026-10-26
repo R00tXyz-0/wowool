@@ -1,0 +1,12 @@
+Url: https://www.bnnbloomberg.ca/business/economics/
+Date: 2026-09-25
+Language: english
+Title: www.bnnbloomberg.ca
+
+# www.bnnbloomberg.ca.
+
+# Your connection was interrupted .
+
+A network change was detected.
+
+ERR_NETWORK_CHANGED.

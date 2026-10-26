@@ -1,0 +1,8 @@
+Url: https://www.tiktok.com/@bnnbloomberg
+Date: 2026-09-05
+Language: english
+Title: TikTok - Make Your Day
+
+# TikTok - Make Your Day.
+
+In April 2025, the Irish Data Protection Commission (DPC) found that TikTok had not complied with GDPR requirements in relation to transfers of some "EEA User Data to China by way of remote access". The DPC ordered TikTok to bring its transfers into compliance within 6 months, failing which they must be suspended. TikTok strongly disagrees with the DPC's decision and is appealing through the Irish courts. The High Court of Ireland has paused the decision while that happens, allowing the transfers to continue for now. You can read more about this here . 

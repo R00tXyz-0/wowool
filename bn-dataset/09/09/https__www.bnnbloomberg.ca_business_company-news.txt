@@ -1,0 +1,8 @@
+Url: https://www.bnnbloomberg.ca/business/company-news
+Date: 2026-09-09
+Language: english
+Title: Company News - BNN Bloomberg
+
+# Company News - BNN Bloomberg.
+
+Novo Nordisk said on Monday that in a late-stage trial, 40.4 per cent of children aged 6 to under 12 treated with semaglutide, the active ingredient in its blockbuster weight-loss drug Wegovy, were no longer classified as having obesity after 68 weeks, assuming full adherence to the treatment.

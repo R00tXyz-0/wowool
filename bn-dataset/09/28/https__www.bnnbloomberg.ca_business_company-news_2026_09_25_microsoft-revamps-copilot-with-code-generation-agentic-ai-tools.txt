@@ -1,0 +1,28 @@
+Url: https://www.bnnbloomberg.ca/business/company-news/2026/09/25/microsoft-revamps-copilot-with-code-generation-agentic-ai-tools/
+Date: 2026-09-28
+Language: english
+Title: Microsoft revamps Copilot with new AI tools
+
+# Microsoft revamps Copilot with new AI tools.
+
+Microsoft on Friday unveiled several new capabilities in its Copilot app, including a coding tool and an always-on AI agent, as the software giant seeks to transform its AI assistant into a one-stop shop for office workers.
+
+The company is also embedding its Office applications Word, Excel, and PowerPoint directly within Copilot, allowing users to work collaboratively on these apps without having to leave the AI tool.
+
+Shares of the Redmond, Washington-based company rose about three per cent in early trading. 
+
+Microsoft is racing to expand Copilot beyond its chat-based roots to boost adoption as it competes with AI chatbots such as ChatGPT and Claude.
+
+The Windows maker unveiled “Code” to let users build apps, dashboards and other software using natural language prompts. The tool, powered by the same technology as Microsoft’s GitHub Copilot, will roll out to early-access customers at the end of the month, while 365 Premium and Pro subscribers can preview it later this year.
+
+Microsoft is also rolling out “Autopilot,” a revamp of the “Scout” AI agent it unveiled in June, in a private preview at the end of the month. The so-called digital coworker agent will carry its own identity in the company directory and have specific permissions that users can control.
+
+“I think it’s been very hard for many organizations to bring agents into the enterprise because of security, compliance and governance concerns,” Annie Pearl, corporate vice president of Copilot Product, said in an interview.
+
+“So we’ve worked... to make sure that we were building this in a way that would really be able to be used in the enterprise.”.
+
+Microsoft also unveiled cost-management capabilities to allow employees to have direct insight into costs tied to their AI usage. The move comes at a time when enterprises are increasingly worried about rapid AI usage racking up unexpected costs.
+
+(Reporting by Deborah Sophia in Bengaluru; Editing by Leroy Leo) .
+
+## Related Stories .

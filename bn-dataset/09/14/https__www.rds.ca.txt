@@ -1,0 +1,8 @@
+Url: https://www.rds.ca/
+Date: 2026-09-14
+Language: english
+Title: RDS - Le sport sans limites
+
+# RDS - Le sport sans limites.
+
+Ces témoins recueillent et stockent des renseignements sur votre emplacement géographique précis, ce qui nous fournit votre adresse exacte. Lorsque vous visitez notre site, nous utilisons cette information pour vous fournir du contenu propre à votre emplacement, des offres régionales pertinentes et pour personnaliser votre expérience globale. Par exemple, nous pouvons utiliser votre emplacement géographique précis pour confirmer si nous fournissons des services dans votre région ou si vous êtes dans une région où vous pouvez accéder à nos services de diffusion en continu. Si vous désactivez ces témoins, il se peut que nous ne puissions pas vous fournir certains services ou offres. Si vous êtes situé près de la frontière américaine, nous vous recommandons d’activer la fonction de localisation précise afin de vous assurer que les services ne seront pas interrompus.

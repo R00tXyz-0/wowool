@@ -1,0 +1,8 @@
+Url: https://www.bnnbloomberg.ca/business/company-news
+Date: 2026-09-12
+Language: english
+Title: Company News - BNN Bloomberg
+
+# Company News - BNN Bloomberg.
+
+A total 31 U.K. employees were dismissed in October last year, along with three staff in Canada, for allegedly sharing confidential information on the Discord platform, according to U.S.-owned Rockstar.

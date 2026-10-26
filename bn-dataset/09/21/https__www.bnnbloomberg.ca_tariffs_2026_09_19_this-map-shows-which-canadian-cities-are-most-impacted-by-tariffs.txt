@@ -1,0 +1,46 @@
+Url: https://www.bnnbloomberg.ca/tariffs/2026/09/19/this-map-shows-which-canadian-cities-are-most-impacted-by-tariffs/
+Date: 2026-09-21
+Language: english
+Title: Mapping Tariffs shows estimates of U.S. tariff exposure across Canada
+
+# Mapping Tariffs shows estimates of U.S. tariff exposure across Canada.
+
+At the onset of a trade war with the U.S. last year, researchers at the University of Toronto set out to better understand what the impact would be for workers in different cities.
+
+Nearly a year and several rounds of tariffs later, their answer for Toronto is roughly 66,000 workers and 3,000 businesses, and counting.
+
+Mapping Tariffs was first launched right after U.S. President Donald Trump imposed an initial round of tariffs in March 2025, which hit the automobile and steel sectors hardest. The purpose of the team’s research was to answer a straightforward question: what are the impacts of tariffs across all cities in Canada? .
+
+Researchers at the University of Toronto’s School of Cities examined a litany of resources from government agencies in both Canada and the U.S. to paint a picture of how vulnerable each province, region, municipality and community was to each round of tariffs.
+
+“We think it would be a useful tool to help explain to the public where the vulnerability to U.S. tariffs might be, but also to help policymakers at the local level understand very specifically, in a granular way,” Tara Vinodrai, a professor at the University of Toronto in the Institute for Management and Innovation and one of the researchers behind the project, told CTV News.
+
+Mapping Tariffs has been continuously updated to reflect the impacts of every round of new tariffs, with its most recent revision on Sept. 1.
+
+Vinodrai said the team moved quickly to add data on Section 338 tariffs, which targeted alcohol and dairy products.
+
+“The day we released it, Trump, of course, announced simultaneously that he was changing and altering the 338 tariffs, adding more products, banning some products,” Vinodrai said, adding the team is currently working on that revision. “It’s the project that keeps giving.”.
+
+Users can toggle through various goods subject to U.S. tariffs and see their potential impact on businesses and employees in different Canadian cities.
+
+A map highlighting potential direct exposure to tariffs shows 3,027 businesses (3.2 per cent) in Toronto are affected by the latest round of levies imposed in late August.
+
+Roughly 66,000 employees who work in Toronto (four per cent) are exposed.
+
+Meanwhile in Vaughan, roughly 1,000 businesses (5.7 per cent) are estimated to be directly exposed to tariffs. This impacts 32,555 employees who work in the Vaughan census subdivision (12 per cent) and just shy of 12,000 workers who live in the area (6.7 per cent) but might be employed elsewhere.
+
+In Windsor, Ont., home to automotive assembly plants for Ford and Stellantis, 4.5 per cent of businesses are impacted. Around 12,100 employees who work in Windsor (11.6 per cent) are also directly impacted by tariffs.
+
+Across the Toronto Census Metropolitan Area, which includes municipalities from Ajax to Milton, Mapping Tariffs says an estimated 7.3 per cent of businesses are potentially impacted. More than 200,000 employees who work in Toronto (around 13.5 per cent) are likely feeling the impacts of the tariffs, the researchers say.
+
+Vinodrai said the diversity of Toronto’s economy acts as a buffer for the city.
+
+“It’s clear in all of our analysis that this new round of tariffs basically widens and deepens the effects on Canadian cities and neighbourhoods. Toronto is not immune from that,” she said.
+
+“But what’s good in the case of Toronto, relative to many other Canadian cities, is it’s got an incredibly diverse industrial base ... It protects it a little more from the immediate impacts, as compared to some of the very specialized, smaller cities in southern Ontario or across Canada.”.
+
+The School of Cities researchers say assessing the effects of tariffs is not a straightforward task, given the dynamic economic landscape, the varying responses businesses are taking to the levies and shifting consumer habits.
+
+But Vinodrai said the map can still be used to guide policymakers on how to respond to each new round of tariffs.
+
+“There are efforts in Toronto and in other cities, too, to think about how to respond at the local level to tariffs, whether that means reaching out to local businesses to encourage them to think about where they are exporting to and thinking about ... different markets beyond the U.S.,” she said.

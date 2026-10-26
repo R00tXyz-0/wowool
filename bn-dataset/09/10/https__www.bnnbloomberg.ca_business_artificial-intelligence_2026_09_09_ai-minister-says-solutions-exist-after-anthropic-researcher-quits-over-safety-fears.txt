@@ -1,0 +1,48 @@
+Url: https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/09/ai-minister-says-solutions-exist-after-anthropic-researcher-quits-over-safety-fears/
+Date: 2026-09-10
+Language: english
+Title: AI minister: Solutions exist after Anthropic researcher quits
+
+# AI minister: Solutions exist after Anthropic researcher quits.
+
+OTTAWA — The federal artificial intelligence minister said the government is closely following the situation at Anthropic after a researcher who resigned from the company Tuesday said people in the industry fear AI could “kill us all.”.
+
+Evan Solomon also told reporters Wednesday such warnings aren’t new and that there are both regulatory and technical solutions to the dangers posed by AI.
+
+He pointed to the Liberal government’s efforts to introduce privacy legislation. “We’re establishing a new regulator that will have the power to hold these big companies to account,” he said.
+
+Solomon also said the government is investing in AI safety and noted ongoing work by Canadian AI pioneer Yoshua Bengio on safe AI. Solomon added the government is also working with other countries on ways to protect citizens.
+
+He said there are “real concerns” about the negative consequences of AI.
+
+On Tuesday, researcher Jacob Coxon, who worked at both OpenAI and Anthropic, said in a post on X that neither “company is acting responsibly. They are racing straight to self-improving superintelligence and gambling with our lives.”.
+
+He said those who are building AI “earnestly believe that it could kill us all by the end of the decade.”.
+
+Adding that this is “not a marketing stunt,” Coxon said that many in the industry will use more measured phrasing when speaking publicly, even as they express fear in private.
+
+Evan Hubinger, a team lead at Anthropic focused on AI safety, chimed in on the post, writing: “we really do earnestly believe AI could kill all humans! I personally think it is >10% within the next decade.”.
+
+Solomon made the comments in Edmonton, where he announced the launch of a new initiative to boost AI literacy among Canadians.
+
+That initiative includes “AI essentials” courses for students, educators and Canadians in general. The government is partnering with the Alberta Machine Intelligence Institute, one of Canada’s three national AI institutes.
+
+“We’ll invest $13 million to launch this course, to expand AI literacy for every single Canadian,” Solomon said.
+
+Last week, he announced new voluntary principles for building data centres in Canada in response to growing backlash against data centres across the country.
+
+The federal government won’t be enforcing the guidelines. Solomon told reporters last week decisions on data centres fall under provincial and municipal jurisdiction.
+
+In response to a question about whether the government will monitor compliance, Solomon said the agreement will provide reliable and verifiable information on the standards that were set.
+
+“Those are going to be enforced by the municipalities or the provinces,” he said.
+
+The framework says data centres must “create lasting local benefits,” can’t shift electricity costs to Canadians, and must minimize water use and their impact on the environment. It also calls for transparency on local impacts and says data centres have to “bring strategic value to Canada.”.
+
+The list of signatories includes Amazon, Google, Meta, Microsoft, Bell, Telus and Anthropic.
+
+This report by The Canadian Press was first published Sept. 9, 2026. 
+
+Anja Karadeglija, The Canadian Press .
+
+## Related Stories .

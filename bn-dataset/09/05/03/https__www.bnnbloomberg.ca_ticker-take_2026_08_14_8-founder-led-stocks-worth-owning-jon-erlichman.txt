@@ -1,0 +1,60 @@
+Url: https://www.bnnbloomberg.ca/ticker-take/2026/08/14/8-founder-led-stocks-worth-owning-jon-erlichman/
+Date: 2026-09-03
+Language: english
+Title: Jon Erlichman: 8 Founder-Led Stocks Worth Owning
+
+# Jon Erlichman: 8 Founder-Led Stocks Worth Owning.
+
+Does it matter who’s running the company you own?.
+
+One investor built an entire investing framework around the belief that it does.
+
+This week on Ticker Take , we spoke with Michael Monaghan, a portfolio manager with more than two decades of institutional finance experience, including stops at Goldman Sachs, UBS and Carlyle. Notably, he’s also spent time on the other side of the table. He founded a defense technology company, which he ran for more than a decade. 
+
+That dual experience shaped his thesis. Founder-led companies, he argues, behave differently than ones run by hired management, because the person in charge has both the vision to set a long-term direction and the authority to change course when needed. “The United States was built by iconoclasts,” Monaghan told us. “The founders are the iconoclasts of our generation.”.
+
+The numbers back him up. Monaghan’s team studied 11,000 stocks over 30 years and found founder-led companies outperformed by about 4 per cent on average. A separate Bain & Company study found similar results: founder-led S&P 500 companies returned more than three times as much as the rest over 25 years.
+
+To find the best of the bunch, Monaghan keeps a database of roughly 800 publicly traded founder-led companies, narrows that to the 200 largest, then runs them through a factor model built from 25 years of fundamental investing experience. What tends to stand out: fast revenue growth, high free cash flow margins, and net cash instead of net debt. But Monaghan says those numbers are just the byproduct of something else. “The founder sets a vision, executes against it, has the grit to overcome obstacles, and the moral authority to pivot if need be,” he says.
+
+With that framework in mind, here are the 8 stocks he highlighted. As always, this is not financial advice.
+
+Oracle (ORCL) .
+
+Larry Ellison started Oracle in 1977. Fifty years later, he’s still chairman and CTO. Monaghan calls it one of the most hated stocks in the market, and one of his top picks anyway. Ellison has a habit of reinventing the company roughly every decade, and the latest pivot is toward AI data centers, built on Oracle’s existing base of secure corporate and government data.
+
+Meta Platforms (META) .
+
+Mark Zuckerberg started Meta in a Harvard dorm room in 2004 and still holds voting control today. Last quarter, revenue grew 33 per cent while ad prices rose 12 per cent, which Monaghan reads as proof Meta’s AI spending is working. He also points to the metaverse pivot. Zuckerberg poured money into it, decided it wasn’t working, and moved on. That, Monaghan says, is the kind of call only a founder can make quickly.
+
+Palantir (PLTR) .
+
+Alex Karp co-founded Palantir with Peter Thiel in 2003. Monaghan tracks the company’s Rule of 40 score, revenue growth plus margin, which hit 145 last quarter. Some of Palantir’s early retail shareholder base has drifted toward other sectors, leaving the stock trading sideways. Monaghan expects institutional growth investors to come back in as the company grows its commercial revenue and relies less on government contracts.
+
+Dell Technologies (DELL) .
+
+Michael Dell started the company in a University of Texas dorm room in 1984, took it private years later, then brought it back public. Monaghan likes the discipline: supply chain management, tight control of the balance sheet. The next chapter is AI servers, and margin worries eased after Super Micro’s recent guidance came in well above what the market expected.
+
+Capital One (COF) .
+
+Richard Fairbank has run Capital One since 1988. The Discover acquisition is the piece Monaghan keeps coming back to. Owning the payment network lets Capital One offer credit-card-style rewards on debit cards, something almost none of its competitors can do.
+
+Bloom Energy (BE) .
+
+KR Sridhar, a former NASA scientist, runs Bloom Energy. His pitch fits neatly into the AI power story. Data centers need energy fast, and fuel cells can come online faster than a new gas turbine or a grid interconnect. Bloom is powering close to two gigawatts of capacity for Oracle’s data center buildout, which Monaghan points to as proof the model scales.
+
+Waste Connections (WCN) .
+
+Ron Mittelstaedt co-founded Waste Connections in 1997, stepped back at one point, then came back to run it again. It’s one of Monaghan’s favorite examples that founder leadership isn’t a tech-only phenomenon. The hired CEO who replaced Mittelstaedt didn’t deliver the results he had, so he took the job back.
+
+Kodiak Gas Services (KGS) .
+
+Mickey McKee started Kodiak in 2011 and built it into the largest privately held compression company in the world within five years. The business runs on tolling agreements, so Kodiak gets paid for the volume of gas it moves rather than the price of the gas itself. As AI-driven demand pushes natural gas use higher, Kodiak benefits no matter where prices go.
+
+The Ticker Take .
+
+Eight companies, eight industries. In each one, the founder is still running the show.
+
+Monaghan thinks that’s not an accident. The same traits that make someone start a company in the first place tend to show up later in the numbers.
+
+Jon Erlichman is a BNN Bloomberg contributor and the host of Ticker Take on YouTube . 

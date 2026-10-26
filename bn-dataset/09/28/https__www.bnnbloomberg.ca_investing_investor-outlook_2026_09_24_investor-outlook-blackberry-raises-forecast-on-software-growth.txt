@@ -1,0 +1,66 @@
+Url: https://www.bnnbloomberg.ca/investing/investor-outlook/2026/09/24/investor-outlook-blackberry-raises-forecast-on-software-growth/
+Date: 2026-09-28
+Language: english
+Title: BlackBerry boosts guidance as QNX revenue rises
+
+# BlackBerry boosts guidance as QNX revenue rises.
+
+Strength in vehicle software has prompted a higher full-year revenue forecast, while a major commercial truck design win points to potential royalty growth in the years ahead.
+
+BNN Bloomberg spoke with John Giamatteo, CEO of BlackBerry, about QNX’s expansion plans, the timing of its new contracts and the company’s approach to investment.
+
+## Key Takeaways .
+
+ * QNX revenue rose 27 per cent from a year earlier to a record US$80.3 million in the second quarter. 
+
+ * Vehicle software design wins can generate development and services revenue before per-vehicle royalties begin years later. 
+
+ * QNX is expanding beyond automotive software into robotics, medical devices and industrial automation. 
+
+ * BlackBerry lowered its Secure Communications revenue forecast amid uncertainty about the timing of new business. 
+
+ * Giamatteo said the company is prioritizing organic investment while also considering share buybacks and acquisitions. 
+
+Read the full transcript below: .
+
+ROGER: BlackBerry has raised its full-year outlook for the second time this year, led by strength in its QNX vehicle software business. The company secured a design win for its Alloy Kore software platform, a deal worth more than US$100 million and the largest contract in QNX’s history. For more on what’s ahead, I’m joined by John Giamatteo, CEO of BlackBerry. John, thank you very much for joining us today. 
+
+JOHN: Thanks for having me on the program, Roger. 
+
+ROGER: Okay, Alloy Kore, the contract. Why is it so significant for you? .
+
+JOHN: Yeah, significant milestone for us. It really positions us moving up the stack from a real-time operating system provider, which is historically what we’ve, which we’ve done across powering over 275 million cars around the world today. This is us going up the stack by combining that real-time operating system with a common set of other important services in the middleware space of the automotive software stack, and it really enables us to increase the level of our addressable market by pre-integrating these capabilities and delivering them in a comprehensive way to our customers. So, those are two of the big drivers around that. And Coretura was the first one out of the gate with one of the largest, you know, commercial trucking organizations — a collaboration between Volvo and Daimler — and we couldn’t be more thrilled to be able to serve them in supporting their next-generation vehicle needs. 
+
+ROGER: Okay, now this a design win for you. When do you expect to see some royalty revenue recognition? .
+
+JOHN: Yeah, these kind of design wins, you know, they generally will take a few years. We’ll get some revenue up front in the first year or two as they deploy development licences. We’ll then work with them in services to help them integrate the product into their programs, and then the royalties on a per-car basis will flow at the later side. So, this was a great win that I would say sets up the future growth for QNX and BlackBerry, you know, over the coming years ahead. 
+
+ROGER: And let’s talk a little bit about QNX. It’s the primary growth engine for you. What’s next for it? Where do you see it going from cars or from vehicles? .
+
+JOHN: Yeah, it’s, I would say, Roger, it’s really — we’ve got a three-pronged strategy around QNX. You know, the core is our core automotive business. As we see more centralized compute architectures move into the vehicle, that plays right to our strength. Our operating system serves that better than anyone. We have a significant market share. So as more of those, more software architectures, silicon goes into the car, that creates a bigger base of opportunity for us from addressable market perspective. So that’s the first pillar. The second was, we talked about Alloy Kore, going up the stack into the middleware and developing and delivering a pre-integrated capabilities, and then the third pillar is physical AI, general embedded space, powering robots, medical instrumentation, industrial automation. That’s a significant opportunity for us in the future. So those three pillars represent the growth that we’re driving in the QNX business. 
+
+ROGER: How much of a competitor or how much resistance can, does QNX have to AI? I mean, it’s what everybody’s talking about. Can, is there concern it can be replaced? .
+
+JOHN: Yeah, that’s something we feel really good about, our overall defensibility and resilience around that because, you know, our products, our service, QNX, it’s a deterministic capability. It’s a platform that provides predictability and, when failure is not an option, has to work every single time. That brake has to work every single time. So it’s more deterministic versus some of the general AI software programs, which are more probabilistic. So when you need that deterministic, that real-time performance and reliability, QNX is very much at the top of the pack, and we think it helps differentiate ourselves from some of the more common AI capabilities that are out there. 
+
+ROGER: All right, another big news for you: Uber. You partner with them. The revenue model is volume-based. How do you see ramping up that volume? .
+
+JOHN: Yeah, it’s early. The whole robotaxi space and autonomous vehicle space. It’s early days, you know, for that to be moving into production, but the fact that, you know, our partnership with companies like Uber and other companies that we’re working with across the industry are selecting us in the early stages of their, you know, moving to commercial and productive production capabilities just positions us really well. The future, as I’ve said on our earnings call, if it’s a nine-inning baseball game, we’re probably in the second inning with this. So this is something that is going to represent future growth opportunities. But we’re really pleased to get some of those early design proof points. 
+
+ROGER: All right, lots to cover here. Secure Communications. You lowered the guidance — concerns, geopolitical things like that. Do you look at those as short-term concerns, or is this something that you worry may drag on? .
+
+JOHN: You know, we are. You know, we had a first half for Secure Communications. The business grew 13 per cent; even in Q2, it grew two per cent. Our annual recurring revenue is 220 million. It’s very, very solid visibility to where the business is, but honestly, with all the geopolitical tension that’s going on right now, you know, some of the new opportunities we think have the propensity, you know, from a timing perspective, to maybe push out a little bit further, just with all the uncertainty that’s happening right now. So we’re hopeful this is something that’s more of a timing thing than anything else, but because of all that uncertainty, we felt it was prudent to be a little more cautious in that part of the business. 
+
+ROGER: I’m just going to get in one last question. With the — you’ve got about 247 million, I think, in net cash. Are you looking at buybacks, M&A? Where do you see that going? .
+
+JOHN: Yeah, right now, you know, we’re investing organically in the QNX business is probably our number one priority. We do look at buybacks as an opportunity because we think the company is undervalued in terms of where we think it can go, and then M&A is always on the table, so we’re going to look at that at ways to continue to extend our growth and strategic kind of fit in different markets, probably more in the physical AI and GEM space, but so those are the three areas that we look to deploy our capital in the future. 
+
+ROGER: Okay, we have to wrap it up there, John. But thank you very much for joining us. 
+
+JOHN: Roger. Thanks for having me. 
+
+ROGER: John Giamatteo, CEO of BlackBerry. 
+
+---.
+
+This BNN Bloomberg summary and transcript of the Sept. 24, 2026 interview with John Giamatteo are published with the assistance of AI. Original research, interview questions and added context was created by BNN Bloomberg journalists. An editor also reviewed this material before it was published to ensure its accuracy and adherence with BNN Bloomberg editorial policies and standards. 

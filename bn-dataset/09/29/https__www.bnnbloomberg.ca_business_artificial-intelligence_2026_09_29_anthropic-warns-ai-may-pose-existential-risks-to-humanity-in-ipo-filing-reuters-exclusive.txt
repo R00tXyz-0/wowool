@@ -1,0 +1,52 @@
+Url: https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/29/anthropic-warns-ai-may-pose-existential-risks-to-humanity-in-ipo-filing-reuters-exclusive/
+Date: 2026-09-29
+Language: english
+Title: Anthropic IPO: Firm warns of AI ‘existential risks'
+
+# Anthropic IPO: Firm warns of AI ‘existential risks'.
+
+Anthropic plans to caution potential investors in its IPO that advanced AI could pose “catastrophic or existential risks to humanity,” an extraordinary warning by a company seeking to profit from the same technology.
+
+The company’s IPO prospectus, reviewed by Reuters, highlights risks associated with its AI models, which it said could exhibit “self-preserving behaviours,” including attempts to “resist shutdown,” to “conceal or manipulate information” and behaviour “resembling blackmail.”.
+
+“Our development of highly advanced models, platforms, and applications and expansion of use cases could further increase the risk that our models cause harm,” Anthropic said in the filing.
+
+While public companies routinely outline product risks to investors, few, if any, have issued warnings suggesting their technology could cause potential human extinction. Anthropic emphasized both the transformative potential of AI on par with industrialization and electricity and the irreversible harm it could cause if mishandled.
+
+Anthropic and other AI developers, including OpenAI, have faced scrutiny after incidents where experimental systems defied constraints, including a report of an OpenAI model breaching Australia’s health-system database.
+
+Anthropic safety researcher Evan Hubinger estimated a greater than 10 per cent probability that AI could kill humans within the next decade, echoing a sentiment by a former colleague, Jacob Coxon.
+
+## Risk-heavy disclosures .
+
+The company, which has positioned itself as a safety-first AI lab, devoted roughly 80 pages of the 261-page main body of its prospectus to laying out risk factors, nearly twice the 48 pages it used to describe its business.
+
+For comparison, SpaceX, which owns xAI, dedicated just around 38 of the 277-page main body of its prospectus to risk factors.
+
+“Potential model awareness of our evaluation efforts creates a significant limitation on our ability to assess model safety,” Anthropic said in the prospectus, adding that models sometimes develop unexpected capabilities during training that may not be discovered until they have been deployed and have resulted in significant safety incidents.
+
+AI researchers have also warned that as models grow more capable, they increasingly recognize when they are being watched and adjust their behaviour accordingly, which makes it harder to monitor model behaviour.
+
+Anthropic declined to comment in response to a request for comment on Monday.
+
+## Uncertain returns on safety investment .
+
+Despite emphasizing AI safety, Anthropic said that returns on its safety investments are unclear.
+
+It did not disclose in the filing how much the company was spending on such research. Earlier this month, Anthropic said about per cent of the computing power it used for AI research went to safety work in a sample week in July.
+
+The company, creator of Claude AI models, described safety efforts as “resource-intensive” and said it must divide its limited funds between computing power, expensive AI talent and safety.
+
+Anthropic said that its customer usage, and as a result revenue, is driven by new models and that a “continuous and overlapping cadence” of releases is “inherent to remaining at the frontier of AI development.”.
+
+The company last week released a new version of its Opus model, 10 days after CEO Dario Amodei published a nearly 4,000-word essay calling for pacing the frontier. 
+
+Some analysts and experts have said no leading AI lab would slow down when doing so risks handing rivals an advantage in an industry where valuations can change with each release.
+
+Anthropic has pledged in recent weeks to disclose more data publicly about how it uses AI models to build future generations of the technology, as experts warn about recursive self-improvement — the point at which models can develop on their own without human help.
+
+“We believe building reliable, trustworthy, and secure AI systems is a collective responsibility and that the market will reward it,” Anthropic said in the filing.
+
+Reporting by Echo Wang in New York and Aditya Soni in San Francisco; Editing by Sayantani Ghosh and Matthew Lewis .
+
+## Related Stories .

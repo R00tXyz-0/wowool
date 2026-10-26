@@ -1,0 +1,44 @@
+Url: https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/24/oracle-triggers-force-majeure-on-data-centre-project-over-power-delays-source-says/
+Date: 2026-09-25
+Language: english
+Title: Oracle triggers ‘force majeure’ on New Mexico data centre project
+
+# Oracle triggers ‘force majeure’ on New Mexico data centre project.
+
+Oracle issued a “force majeure” notice to a Blue Owl unit, the developer of a large New Mexico data centre, citing potential delays in securing power for the project, a person familiar with the matter told Reuters on Thursday. 
+
+Shares of Oracle fell around four per cent. The source said that securing power for the site is Oracle’s responsibility under the contract.
+
+Oracle cannot terminate the lease under any circumstances, the source said, adding that alternative asset manager Blue Owl has about US$3 billion in equity in the project, with Oracle responsible for paying the debt costs.
+
+Companies typically invoke force majeure to free themselves from contractual obligations when problems arise beyond their control, a move that can raise concerns among lenders and investors.
+
+Rather than exiting as the main tenant, Oracle is attempting to delay payments should the data centre dubbed Project Jupiter get derailed and fail to come online in 2028 as planned, according to a report by Bloomberg News, which first reported the development.
+
+Oracle did not immediately respond to a Reuters request for comment. “Project Jupiter remains on our planned schedule,” the company said earlier in the day.
+
+Blue Owl, which owns the data-centre developer Stack Infrastructure, said the notice does not change the financial commitments to this multi-year project.
+
+During the development stage, Blue Owl earns a nine per cent yield on its equity, the source said, adding that upon completion of the project, the levered yield is expected to be around 11 per cent.
+
+By invoking force majeure, Oracle extends the period during which it pays Blue Owl the lower development-stage rent. Blue Owl will still receive the higher rent for the originally planned duration, but its start will be delayed, according to the source.
+
+The 1,400-acre Project Jupiter campus, which secured US$18 billion in loans from a consortium of banks, according to media reports, is part of Oracle’s broader agreement with OpenAI ​to provide AI computing capacity.
+
+The data centre campus has reportedly faced multiple infrastructure setbacks, including delays to a planned natural-gas pipeline and legal challenges over water and air-quality permits.
+
+The project is a part of Stargate, an initiative to build AI infrastructure in the US under a US$500 billion investment commitment involving OpenAI, SoftBank Group 9984.T and partners including Oracle.
+
+The massive AI infrastructure build-out has faced mounting challenges, as developers race to secure power, water and other resources while managing the enormous costs of deploying computing capacity for partners such as OpenAI.
+
+Growing opposition from the public has made data centres a political flashpoint, with communities around data centre projects raising concerns over their impact on local supply of energy, water and other natural resources.
+
+Brokerage William Blair said while this news intensifies worries about regulatory and power-related delays affecting AI deployments, it expects minimal short-term impact on Oracle.
+
+“Practically, fiscal 2027 should not be affected, since Jupiter contributes no revenue this year.”.
+
+---.
+
+Reporting by Isla Binnie and reporting by Jaspreet Singh in Bengaluru; additional reporting by Prakhar Srivastava; Editing by Devika Syamnath, Anil D’Silva and Maju Samuel .
+
+## Related Stories .

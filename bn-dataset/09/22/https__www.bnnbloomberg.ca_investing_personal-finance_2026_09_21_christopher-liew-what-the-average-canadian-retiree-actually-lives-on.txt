@@ -1,0 +1,54 @@
+Url: https://www.bnnbloomberg.ca/investing/personal-finance/2026/09/21/christopher-liew-what-the-average-canadian-retiree-actually-lives-on/
+Date: 2026-09-22
+Language: english
+Title: Financial advice: What is the average monthly retirement income?
+
+# Financial advice: What is the average monthly retirement income?.
+
+Christopher Liew is a CFP®, CFA Charterholder and former financial advisor. He writes personal finance tips for thousands of daily Canadian readers at Blueprint Financial . 
+
+If you’ve ever searched “how much do I need to retire,” you’ve seen the scary numbers. A million dollars. A million and a half. What you rarely see is the other side of the ledger: what retired Canadians are actually living on right now, and where that money comes from.
+
+Those numbers are a lot less dramatic, and a lot more useful. Below, I’ll walk through what a typical retiree’s income looks like today, where it goes, and what to do if your own picture looks thin.
+
+## The picture right now .
+
+So what does a retiree household actually bring in? The latest Statistics Canada figures, for 2024 , put the median after-tax income for senior families (top earner 65 or older) at $83,200. Less than half of that came from government transfers like CPP, OAS, and GIS; the rest was private pensions, investments, and work. 
+
+On the spending side, StatsCan’s most recent Survey of Household Spending found households headed by someone 65 or older spent an average of $78,499 in 2023. Put those two numbers side by side and the typical retiree household isn’t sitting on much of a cushion. Most of what comes in goes right back out. 
+
+## 1. Start with the income you’re guaranteed .
+
+For most Canadians, CPP and OAS are the only retirement income you can’t outlive and can’t lose to a bad market, so they’re the place to start. Just don’t assume you’ll get “the max” from CPP. According to Service Canada , the average new CPP retirement pension in April 2026 was $877.01 a month, against a 2026 maximum of $1,507.65. 
+
+Add the current maximum OAS of $751.97 a month for ages 65 to 74, and a typical retiree on their own is guaranteed roughly $1,629 a month before tax, or about $19,500 a year. Everything else has to come from a pension, savings, or work. 
+
+I walked through what kicks in at 65, including how the CPP gap opens up, in a recent CTVNews.ca column . Check your Statement of Contributions in My Service Canada Account and plan with that number. 
+
+## 2. Know where the money actually goes .
+
+Income is only half the equation. When I dug into the spending data for a Blueprint Financial video last fall , three categories dominated what Canadian retiree households spend: shelter, food, and transportation. Shelter alone was the biggest line by a wide margin, at around $15,700 a year. Household operations, recreation, and health care rounded out the top six. 
+
+The one that surprised me was health care. Retiree households were spending around $3,121 a year, or about $260 a month, on things like dental, prescriptions, glasses, and paramedical services that provincial plans don’t cover. “Free health care” turns out to be a lot less free once you’re off a group benefits plan.
+
+Here’s what I’d do with that list. Take your last three months of spending, sort it into those six buckets, and see which one is out of line for your income. In my experience, there’s almost always one leak, and fixing one big leak matters far more than trimming a dozen small ones.
+
+## 3. The pension divide is the whole story .
+
+The single biggest difference between a comfortable median retiree and a stretched one is a workplace pension. Statistics Canada reported in July that only 37.6 per cent of paid workers were covered by a registered pension plan in 2024, and private-sector membership fell that year. Most of the defined benefit plans, the gold-standard kind, are in the public sector. 
+
+If you’re in the 62 per cent without one, you are your own pension plan. That means your RRSP, TFSA, and non-registered savings have to generate the “market income” half of the median picture above. A couple with average CPP and full OAS could receive around $39,000 a year from government sources; anything beyond that has to come from what you built.
+
+One tax note: converting some RRSP money to a RRIF at 65 lets you claim the pension income credit on up to $2,000 of withdrawals a year, and it opens the door to pension income splitting with a spouse.
+
+## 4. Singles need a different plan .
+
+Single retirees have a harder time, and the numbers show it. That same StatsCan release put the 2024 poverty rate at four per cent for senior families but 11.1 per cent for seniors living alone. Nearly three times higher.
+
+The reasons are simple. You pay the same rent, property tax, utilities, insurance, and car costs as a couple, but you only collect one CPP and one OAS. There’s no second pension to lean on, no income splitting to lower the tax bill, and no survivor benefit coming your way if things get tight. A couple can absorb a bad year; a single retiree wears all of it.
+
+So plan for it directly. The rule of thumb I use is that a single person needs roughly 60 per cent of what a couple needs, not half. Run your own numbers on that basis, and give housing the most attention, because it’s the one cost that doesn’t shrink when there’s one of you.
+
+## Final thoughts .
+
+The typical Canadian retiree isn’t living on a million-dollar portfolio. They’re living on CPP, OAS, maybe a pension, and whatever they managed to save, and most are making it work. Your job isn’t to hit a magic number. It’s to know your real income floor, know your six big expenses, and close the gap between them with a plan you actually understand.

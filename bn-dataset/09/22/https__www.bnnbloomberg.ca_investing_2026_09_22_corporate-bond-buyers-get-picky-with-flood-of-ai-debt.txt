@@ -1,0 +1,68 @@
+Url: https://www.bnnbloomberg.ca/investing/2026/09/22/corporate-bond-buyers-get-picky-with-flood-of-ai-debt/
+Date: 2026-09-22
+Language: english
+Title: Corporate bond buyers get picky with flood of AI debt
+
+# Corporate bond buyers get picky with flood of AI debt.
+
+NEW YORK — The market for highly rated corporate credit has split in two: bonds issued by AI-related firms are being met with caution, while those sold by so-called traditional issuers such as financial and industrial firms are prompting spirited bidding.
+
+Portfolio managers say they are not concerned that hyperscalers and other AI-linked companies are in danger of defaulting. Rather, the sheer volume and unpredictability of borrowing needed to finance data centers, chips and AI infrastructure are prompting bond market shoppers to demand generous concessions and to rethink portfolio concentration limits.
+
+Gross debt issuance from hyperscalers is expected to hit a record $420 billion next year, up 60 per cent from 2026 estimates, Goldman Sachs data show.
+
+In comparison, overall U.S. corporate issuance through August was up 30 per cent from a year earlier to $1.9 trillion, according to the Securities Industry and Financial Markets Association trade group.
+
+“We’re being very selective in terms of how we invest within hyperscaler debt,” said Colby Stilson, head of fixed income at Brown Advisory in London.
+
+“Our degree of investment conviction needs to be very high because of the coming supply and because of the lack of visibility into that return on invested capital.”.
+
+## INVESTORS SEEK GREENER PASTURES .
+
+Outside the AI complex, corporate bond spreads remain near historically tight levels and new deals are often heavily oversubscribed.
+
+Loren Moran, fixed income portfolio manager at Wellington Management, pointed to recent pharmaceutical and insurance acquisition financings that attracted strong demand and required little or no pricing concession as buyers sought opportunities “ex-hyperscaler.”.
+
+Investors still have cash to deploy, she added, but many increasingly prefer to deploy it away from the AI investment boom.
+
+The divergence was evident in recent bond sales. Google parent Alphabet had to offer a large concession to complete its August debt sale, according to BNY in a research note, while insurance broker Aon’s AON.N $13.5 billion acquisition financing this month drew $65 billion of orders. The flurry of buying meant pricing on its 30-year tranche tightened by 35 basis points, analysts said, underscoring investors’ appetite for scarcer bonds.
+
+For hyperscalers, data-center operators and chip-related borrowers, spreads have steadily widened as investors struggle to absorb a relentless stream of supply.
+
+Spreads on AI-related issuers have remained persistently wider at around 115 basis points, according to the latest Goldman data. That compares with 78 basis points for the broader investment grade market, ICE BofA data showed.
+
+Lon Erickson, portfolio manager at Thornburg Investment Management, said bonds issued by major AI spenders such as Meta Platforms and Alphabet have consistently traded wider than similarly rated peers, though the firms generate lots of cash and have strong balance sheets.
+
+The spread premium reflects expectations that borrowers will keep returning to the market as AI-related capital expenditures soar.
+
+“Investors are only able to digest so much, so fast,” Erickson said.
+
+## AI ISSUERS MAKING CONCESSIONS .
+
+AI issuers are being forced to offer concessions to complete transactions. Russell Brownback, deputy chief investment officer for global fixed income at BlackRock, characterized some deals as double-A credits pricing closer to triple-B spread levels.
+
+Concentration risk is also becoming an equally important consideration for buyers.
+
+Some institutional investors are nearing single-name exposure limits once debt issued through related structures, including parent-backed data-center financing vehicles, is aggregated back to the same technology companies, Wellington’s Moran said.
+
+Thornburg’s Erickson said many investors also want flexibility in case enthusiasm around AI cools. Rather than build oversized positions today, they prefer to keep capital available to buy hyperscaler debt later if spreads widen further.
+
+Nick Elfner, co-head of research at Breckinridge Capital Advisors, said some hyperscaler transactions have attracted lower levels of demand than investors have become accustomed to seeing from marquee issuers, while a number of deals have traded poorly after pricing.
+
+Investors can plan for large borrowing programs when management teams provide clear guidance. But surprise issuance only months after previous sales, often at wider spreads, can undermine confidence and increase the compensation required on future deals, he noted.
+
+Trading in frequent bond issuer Oracle’s ORCL.O debt has at times exemplified some of these trends, publisher of Income Securities Investor, Marty Fridson, wrote this month . 
+
+## INVESTORS GETTING MORE SELECTIVE .
+
+BlackRock’s Brownback said the widening in AI-related spreads reflects straightforward supply-and-demand dynamics rather than growing concerns about credit quality, and that the trade-off remains attractive for both issuers and investors.
+
+Companies are willing to fund themselves at wider spreads because they believe AI investments will generate returns well above their borrowing costs, while bond investors receive compensation more commonly associated with lower-rated issuers despite lending to highly rated companies.
+
+For now, however, the clearest message from the bond market is not fear of AI borrowers but growing selectivity.
+
+“There are a lot of investors that just want something other than hyperscaler debt for now. The market is a bit starved for anything ex-hyperscaler,” said Wellington’s Moran.
+
+(Reporting by Gertrude Chavez-Dreyfuss; Additional reporting by Vidya Ranganathan in London, Editing by Colin Barr and Nia Williams) .
+
+## Related Stories .

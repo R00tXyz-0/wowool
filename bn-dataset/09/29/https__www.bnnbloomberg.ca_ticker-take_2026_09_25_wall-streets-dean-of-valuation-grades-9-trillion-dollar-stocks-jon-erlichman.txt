@@ -1,0 +1,56 @@
+Url: https://www.bnnbloomberg.ca/ticker-take/2026/09/25/wall-streets-dean-of-valuation-grades-9-trillion-dollar-stocks-jon-erlichman/
+Date: 2026-09-29
+Language: english
+Title: 9 trillion-dollar stocks: Jon Erlichman
+
+# 9 trillion-dollar stocks: Jon Erlichman.
+
+A trillion dollars used to be a rare milestone.
+
+But in the eight years since Apple first accomplished the feat, more than a dozen companies have crossed the trillion-dollar threshold.
+
+Given that, does a trillion-dollar valuation alone make a stock worth buying?.
+
+Aswath Damodaran doesn’t think so. The NYU finance professor, whom Wall Street calls the “dean of valuation,” walked us through his thinking in the latest episode of Ticker Take . He makes a distinction between pricing a stock and valuing it. Pricing is what most of the market is actually doing, driven by how many people want to buy or sell a stock at any given moment. Valuing a business is determining its worth, based on the cash it generates. More specifically: how much cash is coming in, how fast will it grow, and how much uncertainty surrounds it. 
+
+Damodaran also dismisses the idea that the AI boom justifies trillion-dollar valuations on its own. If anything, he sees it as an open question rather than a settled bet. He describes the AI industry as building “the most expensive factory known to mankind,” bigger than the railroads or the dot-com era, with roughly US$2.5 trillion invested so far. The problem is nobody yet knows what the factory will make or what people will pay for it. By his math, only three trillion-dollar companies actually owe their valuation to AI: Nvidia and the not-yet-public Anthropic and OpenAI. Every other company on the list was already worth a trillion dollars before AI came along.
+
+With that said, we asked the professor to give us his grades on how the market is currently valuing nine of the world’s most valuable companies.
+
+## Grade B+: Apple .
+
+Damodaran says restraint is the defining trait of Apple’s approach to AI. While its peers committed hundreds of billions of dollars to AI infrastructure, Apple held back. Its balance sheet remains debt-free and cash-rich as a result. On the cautionary side, though, he noted Apple has become almost entirely dependent on the iPhone, with each new upgrade cycle carrying outsized weight for the company’s fortunes. 
+
+## Grade B: Nvidia .
+
+Damodaran calls Nvidia an awesome company, but says the market is pricing it as if it’s the greatest company of all time. He pointed to a structural risk in its business model: Nvidia does not manufacture its own chips, and its largest customers are actively developing alternatives to reduce their reliance on it. He believes that tension is not fully reflected in the stock’s valuation. 
+
+## Grade B: Amazon .
+
+Damodaran noted that Amazon , unlike several of its mega-cap peers, has never operated with a reliable cash cow business behind it. He referred to Amazon as his “Field of Dreams” company, citing its history of operating near the edge of profitability, including a near-bankruptcy during the dot-com crash. He said that experience may make Amazon better equipped than its peers to withstand losses from AI investment. 
+
+## Grade B: Berkshire Hathaway .
+
+Berkshire is, of course, a very different business from those at the centre of the AI boom. Its road to a trillion dollar valuation was slower and steadier, led by highly profitable insurance operations and predictable cash flows. Even so, Damodaran’s B grade centres on succession. 
+
+Berkshire’s valuation has long been tied to Warren Buffett’s individual track record as an investor. Buffett, who is 96, has now given up both his CEO and chairman titles. Damodaran said the market has handled that transition well, pricing in Greg Abel as a good manager, but one without Buffett’s proven track record.
+
+## Grade B-: Alphabet, Meta, Microsoft .
+
+Damodaran gave all three companies the same grade for the same reason. Each is spending heavily on AI for the first time, using cash built up from other parts of its business. He says the market isn’t asking enough about how that spending pays off. He also flagged something to watch: some AI “profits” being reported are really just rental income from leasing data centres to other AI companies, not money made from AI products themselves.
+
+## Grade C: Tesla .
+
+Damodaran said he no longer has a clear sense of what business Tesla is in. The company has moved from a premium electric vehicle maker to a mass-market one, and more recently to a story built around AI and robotics. He also pointed to Tesla’s emergence as a politically polarizing stock, citing this as a factor in his decision to sell his own shares following the 2024 U.S. election. “I feel lost on Tesla,” he said. “And I don’t think the market has any clear sense either.” .
+
+## Grade Incomplete: SpaceX .
+
+Damodaran declined to assign SpaceX a full grade, citing its limited public float. Only a small percentage of its shares currently trade, which he said makes it difficult to judge the market’s true read on the company. He cited recent valuation swings as evidence, with SpaceX swinging above and below a $2 trillion market cap. He also noted that some of SpaceX’s reported AI revenue comes from leasing data centre capacity to Anthropic, which should be seen as one of its main AI competitors.
+
+## The Ticker Take .
+
+Professor Damodaran gave no A grades because he believes a perfect score would require certainty about the future, something no valuation can offer. And that includes companies deemed to be worth more than a trillion dollars. Instead of focusing on valuation, Damodaran says to focus on cash flows and how much confidence you have in them holding up over time.
+
+Jon Erlichman is a BNN Bloomberg contributor and the host of Ticker Take on YouTube . 
+
+## Related Stories .

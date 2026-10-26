@@ -1,0 +1,36 @@
+Url: https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/01/openai-to-launch-new-model-with-stronger-safeguards-after-hack/
+Date: 2026-09-02
+Language: english
+Title: ChatGPT maker OpenAI to launch model with ‘stronger safeguards’
+
+# ChatGPT maker OpenAI to launch model with ‘stronger safeguards’.
+
+SAN FRANCISCO — ChatGPT maker OpenAI said Tuesday it was preparing to release its newest powerful model, known as Astra, after implementing “stronger safeguards” following a rogue cyberattack involving a different AI model.
+
+The San Francisco-based artificial intelligence (AI) giant paused some of its model development for two weeks this summer after two models it was testing were involved in a security breach of software company Hugging Face.
+
+Although Astra “was not involved” in the incident, OpenAI has beefed up its safety measures, the company said in a blog post.
+
+“We have since implemented even stronger safeguards for Astra, including training the model to more reliably refuse harmful cyber requests and respect safety restrictions, additional protections against misuse, and monitoring that can stop potentially unauthorized activity,” the blog said.
+
+That includes classifying Astra as reaching a “critical cybersecurity threshold,” which means OpenAI believes the model is capable of finding and exploiting cybersecurity gaps.
+
+“It is the first model we are designating at this level, and requires stronger safeguards during development and before release,” the blog said.
+
+When OpenAI eventually launches Astra, access to certain capabilities will be limited and the most advanced capabilities will be made available to a select group of early testers, the blog said.
+
+Concerns have increased in recent months about the capabilities of advanced AI models after incidents involving models from both OpenAI and rival developer Anthropic, though none of the models in those incidents were available to customers.
+
+Anthropic also recently discovered that its models had gained unauthorized access to three unnamed organizations during testing that was supposed to keep them away from “real-world” systems.
+
+Last week, more than 100 organizations around the world, including OpenAI and Anthropic, signed an open letter calling for a global effort to “strengthen cyber defenses” against AI-powered cybersecurity threats.
+
+“We have a limited window to strengthen cyber defenses,” the letter said. “In the coming months, AI-enabled cyber attacks will become far more widespread and sophisticated as models around the world become increasingly capable.”.
+
+In June, President Donald Trump signed an executive order calling for a voluntary review process in which the government would get early access to new AI models before their release to assess security risks.
+
+A final framework for those reviews was supposed to be announced by Aug. 1, but so far the White House has not publicly revealed it.
+
+OpenAI has followed the voluntary framework, nonetheless, as it works toward launching Astra, a spokesperson for the company told AFP.
+
+## Related Stories .

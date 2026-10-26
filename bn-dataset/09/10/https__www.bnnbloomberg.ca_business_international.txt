@@ -1,0 +1,8 @@
+Url: https://www.bnnbloomberg.ca/business/international
+Date: 2026-09-10
+Language: english
+Title: International - BNN Bloomberg
+
+# International - BNN Bloomberg.
+
+U.S. rocket launch startup Stoke Space plans to build a larger vehicle for replenishing satellite constellations now that the company has closed a US$1 billion funding round, CEO Andy Lapsa told Reuters, doubling down on its fully reusable rocket strategy as demand grows for launch services.

@@ -1,0 +1,74 @@
+Url: https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/16/build-out-artificial-intelligence-here-or-rent-from-neighbours-ai-minister-says/
+Date: 2026-09-17
+Language: english
+Title: Build out AI here or ‘rent’ from neighbours, minister Solomon says
+
+# Build out AI here or ‘rent’ from neighbours, minister Solomon says.
+
+Digital sovereignty took centre stage at a major artificial intelligence conference Wednesday, with AI leaders saying homegrown build-outs and collaboration among trusted allies are the key to avoiding dependence on less reliable states.
+
+A failure to construct data centres and forge ahead on AI development at home would leave Canada beholden to its neighbours, said Artificial Intelligence Minister Evan Solomon.
+
+“If we don’t build it here, we’ve got to buy it from someone else. And if we don’t innovate here, we’ve got to rent it from someone else. And if we don’t make the rules here, we’ve got to follow someone else’s,” he told attendees at the All In conference in Montreal.
+
+But no nation is an island, he noted.
+
+“Sovereignty’s not isolation; it means partnership with shared values.”.
+
+Karsten Wildberger, Germany’s digital minister, told the audience that shared standards and oversight are essential to ensuring both safe AI development and cutting-edge technology.
+
+“Nowhere does sovereignty matter more than AI. Few technologies have had such power to change our lives so quickly,” he said.
+
+The remarks came amid renewed fears over the existential threat potentially posed by AI systems after an employee at AI giant Anthropic quit earlier this month, warning that those systems could spiral out of control and destroy humanity.
+
+The comments also landed as concerns flare up around digital sovereignty after U.S. President Donald last month dubbed Lake Ontario instead Lake America — a change that popped up on some online maps in Canada.
+
+Wildberger said middle powers such as Canada and Germany should channel that angst into action on AI production, since protests from the sidelines would be drowned out.
+
+“We will sit at the table when we have technology to offer that is safe, capable and competitive. My worry is if our contribution is mainly philosophical; it is important, but that’s not enough,” the minister said.
+
+On Wednesday, Canadian research institute Mila and the German Research Center for Artificial Intelligence announced an agreement to cement AI ties between the two countries. The partnership will focus on developing safe AI systems and applications in key industries such as energy.
+
+Canadian AI company Cohere and German startup Aleph Alpha — both among the biggest large language learning model providers outside of the United States and China — also formalized a previously announced merger in a bid to better compete with American AI giants.
+
+The goal of Cohere’s acquisition is partly to lure companies and governments uneasy with reliance on U.S. tech titans for digital services.
+
+“There need to be multiple democracies contributing to this technology. The world is going to diversify for resilience,” said CEO Aidan Gomez.
+
+As to whether American and Chinese firms would agree to international oversight, he that “it’s going to be tough — but the dialogue needs to be opened.”.
+
+“A multinational body is a much better solution than just a bunch of islands trying to regulate this themselves,” he said at a conference panel alongside Solomon, Wildberger and Aleph Alpha chief research officer Samuel Weinbach.
+
+In an interview Wednesday afternoon, Solomon conceded that Canadian businesses and governments remain heavily reliant on American tech, including cloud services run by Amazon and Google. American authorities have the right to access the oceans of data stored by those companies, such as health care records. And Canadian startups use a vast array of U.S.-made AI tools daily.
+
+“Our trade is largely with the United States, and for a long time that was the most secure way to do it. And it continues to be our largest trading partner,” Solomon said.
+
+“I’m not building against anyone. I’m building for Canada,” he said, pointing to Bell Canada’s announcement this week that it plans to quadruple the size of a data centre project in Saskatchewan.
+
+The $50-billion move amounts to the largest capital investment in the province’s history, and comes amid a growing backlash against data centres across the country.
+
+Solomon highlighted the Liberal government’s efforts to introduce privacy legislation that aims to give citizens more control over their data and to establish a new regulator with the power to impose fines on corporations. An AI literacy course for all teachers and high school students is also set to launch next week.
+
+Earlier in the day, he and Germany’s digital minister announced $300 million in funding for LawZero, a non-profit AI safety research organization founded by artificial intelligence guru Yoshua Bengio and incubated at Mila.
+
+The flashy advancements of machine learning were on full display at the conference, with the players on hand ranging from Microsoft and Nvidia to Bengio.
+
+Mila sported a “real or fake” kiosk asking passersby to spot the AI-generated images, and showcasing its open-source technology to detect the pixel-level signatures they leave.
+
+American AI might also featured prominently. Dell invited attendees to step inside a converted shipping container housing its military-grade mobile data centre, decked out with server racks and cooling units and fit for transport in a military plane.
+
+Meanwhile, Aston Martin showed off its Formula One racing car, with Cohere as an AI partner.
+
+Michael Pelosi, the company’s country manager for Canada, warned about the consequences of failing to diversify the AI models that companies deploy.
+
+“If that model is coming from one market or one region and someone has the ability to turn it off, you’re in trouble,” he said at a Montreal fintech conference Tuesday, noting the U.S. administration’s export ban on an Anthropic model through much of the summer.
+
+“Are you at the mercy of someone — not to mention names, maybe a leader down south — saying, ‘No, I don’t want them to have access to this anymore?’”.
+
+---.
+
+Christopher Reynolds, The Canadian Press .
+
+This report by The Canadian Press was first published Sept. 16, 2026. 
+
+## Related Stories .

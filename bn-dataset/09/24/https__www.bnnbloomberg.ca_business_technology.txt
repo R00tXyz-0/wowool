@@ -1,0 +1,8 @@
+Url: https://www.bnnbloomberg.ca/business/technology
+Date: 2026-09-24
+Language: english
+Title: Technology - BNN Bloomberg
+
+# Technology - BNN Bloomberg.
+
+AI agents are getting better at working together, and in some cases, acting outside the scope of their instructions. Now it's happening with greater frequency, raising fresh questions about oversight.

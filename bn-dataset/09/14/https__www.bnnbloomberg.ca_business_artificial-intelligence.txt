@@ -1,0 +1,8 @@
+Url: https://www.bnnbloomberg.ca/business/artificial-intelligence/
+Date: 2026-09-14
+Language: english
+Title: Artificial Intelligence - BNN Bloomberg
+
+# Artificial Intelligence - BNN Bloomberg.
+
+Anthropic said Thursday it shut down multiple cases of state-sponsored surveillance operations that used its artificial intelligence (AI) models, and warned that governments and state-aligned actors are increasingly using AI to spy on ethnic minorities and dissidents.

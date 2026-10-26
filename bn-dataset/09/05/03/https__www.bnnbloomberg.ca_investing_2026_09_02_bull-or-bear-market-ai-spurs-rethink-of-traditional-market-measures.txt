@@ -1,0 +1,52 @@
+Url: https://www.bnnbloomberg.ca/investing/2026/09/02/bull-or-bear-market-ai-spurs-rethink-of-traditional-market-measures/
+Date: 2026-09-03
+Language: english
+Title: Bull or bear market? How AI changes traditional market measures
+
+# Bull or bear market? How AI changes traditional market measures.
+
+Everyone knows Wall Street calls a 20 per cent drop in a major index a bear market. But what do you call it when the index posts big gains and losses practically every day and is still way up for the year?.
+
+That question is testing the limits of the market’s most familiar vocabulary and prompting some to question whether a term like bear market really applies when tech indexes are red hot and constantly gyrating.
+
+“It’s kind of lazy nomenclature to be using on things that are that volatile,” said Art Hogan, chief market strategist at B. Riley Wealth.
+
+The Philadelphia SE Semiconductor Index, a benchmark for chip stocks, and South Korea’s tech-heavy KOSPI both entered bear markets in July, based on the traditional measure. But even at their troughs, the indexes were still up 46 per cent and 25 per cent, respectively, for the year, thanks to triple-digit percentage gains over the past year.
+
+If that’s a bear, it’s not a particularly unfriendly one at the very least.
+
+“These labels that people use probably make some sense for broad markets, but not for indexes such as SOX and KOSPI, which have had crazy parabolic runs,” said Steve Sosnick, chief strategist at Interactive Brokers.
+
+While the debate may seem academic to some, the labels shape how investors perceive the severity of selloffs, and in the past have served as important markers to distinguish between routine pullbacks and a long-term shift in fundamentals.
+
+A bear market can last for months. Since 1928, bear markets in the S&P 500 have on average lasted 289 days, or about 9.6 months, according to data from Hartford Funds.
+
+## What’s a better measure? .
+
+The debate on what constitutes a bear market is hardly new. In a 2008 blog post, Barry Ritholtz, co-founder and chief investment officer of Ritholtz Wealth Management, urged investors to ignore the “squishy terminology.”.
+
+But what seems like a semantic distinction can carry real investment consequences.
+
+Given the potential boost from the AI boom, investors risk missing out on gains if traditional labels give them a false signal to sell. Indeed, the SOX and KOSPI have rebounded since their trip into old-fashioned bear territory, meaning investors who sold at the bottom would have missed out on recent gains.
+
+Earnings for the S&P 500 semiconductors and equipment industry group are estimated to grow at least 114.7 per cent this year, LSEG-compiled data showed.
+
+There is no consensus on what should replace the traditional definition of bear markets. But among more than a dozen analysts Reuters interviewed, some argue that any new measure should account for the length of the decline, the underlying volatility, the broader direction of the economy and other factors.
+
+“A bear market needs to be sustained over multiple weeks or months for confirmation. Deeper structural forces in the market need to be negative for a bear market to be real, such as high interest rates and peaking of the economy,” said David Russell, global head of market strategy at TradeStation.
+
+Moving averages, which track the average price movement over a period, and Fibonacci retracement, used to identify potential levels where a stock’s decline may slow or reverse, could also be used to guide positioning, other investors said.
+
+Interactive Brokers’ Sosnick said that a decline must at least exceed the index’s one-year historical volatility on an annualized basis to be considered a bear market. By those measures, the SOX would need to fall more than 44 per cent to qualify as a bear market, he said.
+
+While a new definition could possibly better reflect the volatile nature of the SOX, KOSPI and Wall Street’s tech-elite Nasdaq 100 indexes, it is likely to be less tidy than the current measure.
+
+That may leave investors relying more on experience than any fixed threshold.
+
+“For us guys that have been around a long time, it’s more of a ‘feel’ type situation,” said Joe Saluzzi, co-head of equity trading at Themis Trading.
+
+---.
+
+Reporting by Johann M Cherian and Niket Nishant in Bengaluru, editing by Colin Barr and Sriraj Kalluvila .
+
+## Related Stories .

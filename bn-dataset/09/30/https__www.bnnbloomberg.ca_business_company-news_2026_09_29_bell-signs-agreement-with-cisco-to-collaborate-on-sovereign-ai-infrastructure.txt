@@ -1,0 +1,26 @@
+Url: https://www.bnnbloomberg.ca/business/company-news/2026/09/29/bell-signs-agreement-with-cisco-to-collaborate-on-sovereign-ai-infrastructure/
+Date: 2026-09-30
+Language: english
+Title: Bell signs agreement with Cisco for AI sovereign infrastructure
+
+# Bell signs agreement with Cisco for AI sovereign infrastructure.
+
+MONTREAL — Bell Canada and U.S. technology company Cisco say they will collaborate to provide sovereign AI infrastructure for Canadian customers. 
+
+The pair announced they have signed a memorandum of understanding that will make use of Cisco’s AI, networking, security and infrastructure technologies.
+
+The companies say the partnership will help Canadian organizations deploy, secure and manage AI infrastructure in Canada, while giving customers more flexibility in how they access and scale sovereign AI capacity.
+
+It’s the latest in a series of announcements from Bell related to its growing AI and tech offerings.
+
+The company signed a deal in June with Cohere for the AI firm to operate its large language models through Bell AI Fabric, with support from two other companies.
+
+Earlier this month, Bell said it intends to quadruple the size of its planned data centre project in Saskatchewan, with the expansion expected to boost the capacity of the facility to 1.2 gigawatts.
+
+---.
+
+CTV News and BNN Bloomberg are owned by Bell Media, which is a division of BCE. 
+
+This report by The Canadian Press was first published Sept. 29, 2026. 
+
+## Related Stories .

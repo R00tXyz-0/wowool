@@ -1,0 +1,48 @@
+Url: https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/03/nvidia-to-buy-hugging-face-for-nearly-us13b-in-big-bet-on-open-ai-model/
+Date: 2026-09-04
+Language: english
+Title: Nvidia to buy Hugging Face for nearly US$13B
+
+# Nvidia to buy Hugging Face for nearly US$13B.
+
+Nvidia will buy popular developer platform Hugging Face for US$12.93 billion, using its growing AI war chest to expand its influence in the booming market for open-source models that can nearly match the best from OpenAI and Anthropic at lower costs.
+
+The deal, one of Nvidia ’s biggest ever, will bring the chip giant closer to the developers who use Hugging Face to find models and tools, potentially helping it create a pipeline of customers that may buy its processors to run AI services. 
+
+It marks the company’s latest effort to use its surging cash pile, totaling more than US$22 billion at the end of July, to broaden its customer base when clients such as Meta , OpenAI and Microsoft are developing their own AI chips to reduce their reliance on Nvidia. 
+
+The chip giant’s increasing investments, sometimes in its own customers, have, however, sparked investor fears the US$5.4 trillion company could be artificially inflating valuations and contributing to a bubble in the industry.
+
+Open models “broaden access to AI and help ensure that AI leadership is distributed across companies, institutions and communities,” Nvidia CEO Jensen Huang said on Thursday. “They enable organizations to match the right model to the right job.”.
+
+Unlike the closed systems built by OpenAI and Anthropic, open models can be freely downloaded, run and customized by developers. Demand for such models has surged as businesses balk at the steep bill of deploying the technology, with Chinese companies such as DeepSeek and Z.ai emerging as crucial players.
+
+Seeking to assure developers that Nvidia’s involvement would not alter their access to models, Huang said that “Hugging Face will remain an open platform for the entire AI ecosystem.”.
+
+He added that developers could choose their preferred models, chips and cloud platforms.
+
+Nvidia will pay about US$11.9 billion to Hugging Face investors under the deal, while offering an equity-based retention program of up to US$1 billion for staff who join Nvidia.
+
+The two companies already work together to help developers use Nvidia’s computing services on the platform.
+
+## Developer concerns .
+
+Some analysts and developers said they were concerned that Nvidia may gradually neglect rival hardware, making its chips the only practical choice for those building on Hugging Face.
+
+“While they have stated otherwise, it is likely that, at a minimum, technical methods will get instrumented to provide a competitive advantage,” said Harold Byun, CEO of BlueRock, a startup that helps companies run AI systems safely.
+
+“That’s something any rational company would seek to do.”.
+
+For Nvidia, building up open source may help it cushion a demand slowdown from some of its biggest customers.
+
+“Nvidia is clearly buying strategic influence as much as current earnings,” said Axel Rudolph, chief technical analyst at IG Group, adding that the deal was another sign that the company’s ambitions extend far beyond selling chips.
+
+Founded in 2016 by French entrepreneurs Clément Delangue, Julien Chaumond and Thomas Wolf, Hugging Face has also been in the news recently after a hack by rogue AI agents that escaped OpenAI’s testing environment. Beyond hosting AI models, it offers datasets, software libraries and cloud services used to build and deploy AI applications.
+
+The New York-based startup was valued at US$4.5 billion in its last disclosed funding round in August 2023, when it raised US$235 million from investors such as Salesforce , AMD and Amazon . 
+
+---.
+
+Reporting by Aditya Soni, Anhata Rooprai and Harshita Mary Varghese in Bengaluru, additional reporting by Akash Sriram; Editing by Pooja Desai and Leroy Leo .
+
+## Related Stories .

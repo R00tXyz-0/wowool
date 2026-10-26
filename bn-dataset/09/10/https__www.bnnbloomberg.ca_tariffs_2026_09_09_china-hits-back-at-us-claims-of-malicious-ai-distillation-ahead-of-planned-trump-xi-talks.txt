@@ -1,0 +1,44 @@
+Url: https://www.bnnbloomberg.ca/tariffs/2026/09/09/china-hits-back-at-us-claims-of-malicious-ai-distillation-ahead-of-planned-trump-xi-talks/
+Date: 2026-09-10
+Language: english
+Title: China hits back at U.S. claims of ‘malicious’ AI distillation
+
+# China hits back at U.S. claims of ‘malicious’ AI distillation.
+
+BANGKOK — China hit back Wednesday against U.S. claims that Chinese artificial intelligence developers are engaged in “aggressive, malicious” industrial-scale efforts to extract capabilities from frontier American AI systems.
+
+The FBI, National Security Agency and Cybersecurity and Infrastructure Security Agency issued a joint cybersecurity advisory Tuesday that said Chinese AI developers had extracted, or “distilled,” capabilities from some of the most advanced AI models in the U.S. like Anthropic’s Claude, OpenAI’s GPT, Google’s Gemini and SpaceXAI’s Grok “since at least late 2024.”.
+
+The advisory named China’s DeepSeek, Alibaba, Moonshot AI and Z.ai and said the activities were done “likely with Chinese government awareness.”.
+
+In Beijing, the Commerce Ministry dismissed the U.S. claims as groundless. The U.S. was pursuing a “monopoly of the AI industry,” it said in a statement.
+
+“If the U.S. suppresses Chinese AI companies under the pretext of targeting distillation, China will take resolute countermeasures,” the ministry said.
+
+Distillation “is a common practice” used by many AI companies worldwide including those in the U.S., the ministry added. It said the U.S. accusations reflected its “anxiety and double standards.”.
+
+China’s Ministry of Foreign Affairs urged the U.S. to “refrain from making unfounded accusations or smears” against China. It added that both China and the U.S. are major AI powers and should strengthen cooperation.
+
+“China’s AI development is the result of high-level technological self-reliance and strength,” ministry spokesperson Mao Ning said at a regular news conference. “We maintain that all parties should strengthen cooperation to promote AI development that is open, inclusive, universally beneficial and oriented toward the common good.”.
+
+AI governance is expected to figure in planned talks later this month between U.S. President Donald Trump and Chinese leader Xi Jinping.
+
+The U.S. advisory said Chinese AI companies “route distillation requests through multiple pathways to gain unauthorized access, consequently violating U.S. AI companies’ terms of use.”.
+
+“China-based AI companies are engaging in aggressive, malicious, and targeted distillation activities at an industrial scale that extract restricted proprietary functions and capabilities of U.S. frontier AI models,” it said.
+
+The agencies also accused Chinese AI companies of achieving cost savings for their distillation campaigns “through bulk procurement of the U.S. AI companies’ premium subscriptions shared across teams of developers.”.
+
+Chinese AI models like Moonshot’s powerful Kimi K3 have been making inroads in the U.S., among other places. They are seen by some as more efficient and affordable alternatives to American frontier models, even as U.S.-led restrictions have barred China from access to some of the world’s most advanced technologies.
+
+Tuesday’s U.S. joint advisory contains more details than earlier U.S. accusations against Chinese AI developers. Anthropic and OpenAI also have made similar accusations.
+
+Also on Tuesday, U.S. Treasury Secretary Scott Bessent told an event at Southern Methodist University’s Cox School of Business in Dallas that China can “never get ahead” of the U.S. in AI.
+
+“The Chinese distill our models and they can never get ahead of us,” Bessent said.
+
+DeepSeek, Alibaba, Moonshot AI and Z.ai did not immediately respond to a request for comment.
+
+---.
+
+Chan Ho-him, The Associated Press .

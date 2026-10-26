@@ -1,0 +1,92 @@
+Url: https://www.bnnbloomberg.ca/investing/investor-outlook/2026/08/05/investor-outlook-suncor-raises-buybacks-after-earnings-beat/
+Date: 2026-09-02
+Language: english
+Title: Suncor refining strength offsets weaker production
+
+# Suncor refining strength offsets weaker production.
+
+Suncor’s refining operations and integrated business model helped offset weather-related production losses during the second quarter.
+
+BNN Bloomberg spoke with Manav Gupta, executive director at UBS, about the energy producer’s performance, valuation and outlook for the second half.
+
+## Key Takeaways .
+
+ * Suncor plans to increase monthly share repurchases to $500 million from $350 million, compared with $275 million at the start of the year. 
+
+ * Weather disruptions reduced second-quarter production by an estimated 50,000 to 60,000 barrels per day, but the company maintained its annual upstream guidance. 
+
+ * Strong refining margins helped the integrated business offset weaker upstream production and generate substantial cash flow. 
+
+ * Net debt declined by about $2.3 billion during the quarter as the company continued returning cash to shareholders. 
+
+ * Enbridge’s postponement of Mainline Optimization Phase 2 could limit future export capacity if Canadian oilsands production continues growing. 
+
+Read the full transcript below: .
+
+ROGER: Shares of Suncor are trading down today. Upstream production missed analyst expectations. However, the energy company also reported profit from core operations that came in higher than expected. Here to tell us more is Manav Gupta, executive director at UBS. Manav, thank you very much for joining us. 
+
+MANAV: You’re welcome, sir. 
+
+ROGER: Okay, what would you — how would you put this report? It looks fairly solid, but it’s down for the day, though. 
+
+MANAV: Sir, every time in the last three to four months, we have seen negotiations gather momentum about the possibility of a full opening of the Strait of Hormuz. All of energy has come under pressure, upstream and downstream companies. We are seeing that even today. I don’t think it has anything to do with actual reporting on Suncor’s earnings. 
+
+Suncor had a tough second quarter in terms of the weather events that created issues for it. They mentioned on the call they lost about 50,000 to 60,000 barrels of production, primarily because of the weather events. And if you think about it, if they would have actually gone ahead and not had these issues, what we would have seen is the cash flow from upstream would have been higher by about $250 million. That would have been about 24 cents higher in earnings.
+
+So they managed incredibly well despite the weather events that were thrown at them. Their integrated business model really came in handy here, and that was what drove the overall beat for the company.
+
+It is very important to realize that, despite what was thrown at them, this company was able to lower net debt by about $2.3 billion, which was very important. And last but not least, this company again raised its buyback. So we started the year at about $275 million per month, which was raised to $350 million per month, and now they have moved to $500 million per month. So it’s about $1.5 billion of buybacks every quarter.
+
+Their refining really came through, and refining cracks are incredibly strong. So expect a good third quarter. But what was most important was, despite these 50,000 to 60,000 barrels that they lost, they did not change their upstream guidance, which means that the volumes will rebound very strongly in the third quarter.
+
+ROGER: Okay, so with the oilsands, it had some concerns with increased maintenance and upgrading as well, and then increased mining activity at Syncrude. Are those issues at all, or were those just kind of one-offs in the quarter? .
+
+MANAV: As I said, sir, the weather created a lot of challenges for Suncor. In the last two years, particularly in the last year, what we have seen is Suncor has come in at the top end of its volume guidance, and we do believe that even this year, despite what was thrown at it, it will come in at the top end of its guidance again. So expect a very strong rebound in the third and fourth quarters. 
+
+ROGER: All right, we will look for that. Let’s talk about the buyback. Where do you expect that to go? .
+
+MANAV: Sir, they are also reducing debt. They have said they do not have a clear debt-reduction target. So $500 million per month is a very strong number. It will also depend on global commodity prices. But at this point, this company is returning more cash to its shareholders through buybacks plus dividends than some of its peers. 
+
+ROGER: And so, what’s allowing that? What is it doing better than its peers? And what’s the difference? .
+
+MANAV: So it’s a highly integrated business model. They consume some of the crude they produce. They are also one of the most profitable North American refiners, and this remains underappreciated. 
+
+We cover Valero and MPC also, but on a gross-margin basis, this is the highest-gross-margin-per-barrel refiner in all of North America, which kind of helps them out in terms of running that integrated business model, which definitely came through for them in this particular quarter.
+
+They have some peers that are more levered to upstream, which include CNQ and Cenovus. But Suncor’s strength is its integrated business model, with one of the best refining footprints out there, with a very strong retail presence, and all that adds up.
+
+ROGER: Is it perfect, then? Over the next while, is there only one way to go — down — or can they maintain this beyond the third and fourth quarters? .
+
+MANAV: This company has shown you in the last couple of years, since the new CEO took over, that the goals they set, they not only meet them, they actually beat them. So we remain very confident. 
+
+And let’s be very clear: this company has told you that, in the next three years, it wants to grow volumes by 100,000 barrels. So I do think there’s a lot of upside there.
+
+One issue that I wanted to mention for all of Canadian energy, which was a little bit of a setback for everybody yesterday, was Enbridge deciding to delay moving forward with its MLO2. And again, we just think it’s a delay. It’s not a cancellation. Their partner, ET, yesterday said it’s a delay. They hope the project comes back.
+
+But that’s about 250,000 barrels of capacity that, if MLO2 would have moved forward, Enbridge would have provided to Canadian producers. So there’s a little bit of a setback that they decided to delay this project for the time being.
+
+ROGER: And you mentioned it’s delayed. Will that cause any backup or anything like that? .
+
+MANAV: So at this point, we believe MLO1 should be able to take care of the incremental growth that we are seeing. We are seeing some expansion on the TMX side and then some on the Flanagan side. 
+
+But here’s the thing: if Canada wants to continue to grow and take market share from OPEC, which is exactly what U.S. refiners would also like, then MLO2 would eventually be needed, maybe three years down the line.
+
+That additional 203,000 barrels gives Canadian producers the ability to go ahead and FID more upstream growth projects because the last thing Canadian producers want to do is go back 10 years, when the WCS differentials used to move to $30 or $35. That is not the environment you want to operate in.
+
+So MLO2 moving ahead at some point — and we hope Enbridge moves ahead — would give Canadian producers the security they want to go ahead and FID more upstream projects.
+
+ROGER: Okay, and you have it at $103. Your thoughts on the valuation? Where do you think it sits? Is it in the right spot? .
+
+MANAV: Sir, it’s not. It is trading in line with peers. Given its integrated business model, we actually think it should trade at a small premium to peers. 
+
+If you look at its global majors competition, maybe Exxon, it probably is trading — it’s trading at a discount to Exxon, and the business model is highly integrated. So we actually think it should trade at a premium to its peers that are purely upstream.
+
+ROGER: Okay, Manav, we have to wrap it up there. But thank you very much for joining us. 
+
+MANAV: Thank you so much. 
+
+ROGER: Manav Gupta, executive director at UBS. 
+
+---.
+
+This BNN Bloomberg summary and transcript of the Aug. 5, 2026 interview with Manav Gupta are published with the assistance of AI. Original research, interview questions and added context was created by BNN Bloomberg journalists. An editor also reviewed this material before it was published to ensure its accuracy and adherence with BNN Bloomberg editorial policies and standards. 

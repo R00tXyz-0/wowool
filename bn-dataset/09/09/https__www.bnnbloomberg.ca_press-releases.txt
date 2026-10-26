@@ -1,0 +1,8 @@
+Url: https://www.bnnbloomberg.ca/press-releases/
+Date: 2026-09-09
+Language: english
+Title: Press Releases - Latest Company News - BNN Bloomberg
+
+# Press Releases - Latest Company News - BNN Bloomberg.
+
+SalesCloser Technologies Ltd. (“SalesCloser” or the “Company”) (TSXV: SCAI) (OTCQB: SCTLF) (FSE: MJ5), a pioneer in autonomous AI sales technology, today announces that it has entered into a collaboration agreement (the “Agreement”) dated September 7, 2026 with Tendril LLC (“Tendril”), a California-based sales acceleration company, to combine SalesCloser’s autonomous AI sales platform with Tendril’s human-assisted outbound dialing, nearshore staffing, and data-enrichment solutions.

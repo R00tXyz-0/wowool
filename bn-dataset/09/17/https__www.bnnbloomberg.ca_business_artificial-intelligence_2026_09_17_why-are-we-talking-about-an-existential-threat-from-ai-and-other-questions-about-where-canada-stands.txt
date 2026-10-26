@@ -1,0 +1,82 @@
+Url: https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/17/why-are-we-talking-about-an-existential-threat-from-ai-and-other-questions-about-where-canada-stands/
+Date: 2026-09-17
+Language: english
+Title: Artificial intelligence: Where does Canada stand?
+
+# Artificial intelligence: Where does Canada stand?.
+
+OTTAWA — Warnings about the risks AI poses to humans have triggered a heated global debate over the past week. The heads of some of the biggest AI companies in the world are calling for action — something U.S. President Donald Trump opposes vehemently.
+
+Here’s a quick look at what happened and where Canada fits into the picture.
+
+## Why are we talking about an existential threat from AI? .
+
+When generative AI models hit the mainstream a few years ago, Yoshua Bengio, one of the so-called “godfathers” of AI, was a prominent voice warning the technology could pose a threat to humanity.
+
+Such warnings largely faded from the headlines as the anti-regulation Trump administration took office and multiple countries, including Canada, began focusing more on the economic benefits of AI technologies.
+
+Last week, researcher Jacob Coxon, who worked at both OpenAI and Anthropic, said in a post on X that neither company was acting responsibly. He accused both firms of “racing straight to self-improving superintelligence and gambling with our lives” and claimed those building the technology “earnestly believe that it could kill us all by the end of the decade.”.
+
+## Where does Canada stand? .
+
+On Wednesday, Artificial Intelligence Minister Evan Solomon said the growing appetite for AI regulation is a “good thing.”.
+
+But when Solomon was asked during an appearance at a conference in Montreal whether he believes AI poses an existential risk, he didn’t answer directly.
+
+“We take all the risks seriously,” he said.
+
+Solomon added that such warnings aren’t new. “The reason I say that is not to discount the seriousness of it, but to say that we’ve already taken a lot of action as these models move towards the frontier,” he said.
+
+He pointed to Canada’s AI Safety Institute, which received $50 million in the recent national AI strategy.
+
+On Wednesday, Solomon also announced an investment of up to $300 million by Canada and Germany in the development of safe AI by Bengio and his LawZero non-profit.
+
+“LawZero’s flagship approach, called Scientist AI, treats reliability as a core capability, centring on developing a fundamentally new form of AI designed to be trustworthy and safe from inception,” the organization said in a press release.
+
+## What are AI companies asking for? .
+
+Over the weekend, Anthropic CEO Dario Amodei said the pace of AI development should be slowed down, which would require industry co-ordination. OpenAI CEO Sam Altman said he agreed with Amodei that “we need to pace the frontier,” while xAI CEO Elon Musk posted, “Dario is right.”.
+
+But Aidan Gomez, CEO of Canadian AI company Cohere, has taken issue with Amodei’s request for the U.S. government to loosen antitrust restrictions to allow companies to work on AI safety. He called it a red flag.
+
+“It shouldn’t be a few companies in Silicon Valley setting the bar and trying to pull up the ladder behind them and implement regulatory capture,” Gomez said Wednesday while speaking on the same panel as Solomon.
+
+He called for a “multi-stakeholder approach that is much more grounded in the reality of the technology as it exists today and what we can foresee in the near future.”.
+
+Gomez also took issue with those who quantify the risk of extinction.
+
+“They throw out numbers, like 10 per cent chance that there’s going to be extinction of our species due to this technology. That’s not a mathematical result, and it’s extremely misleading to the public to throw out these numbers that are just, like, your gut vibe check on what might be coming, as though it’s a concrete quantitative measurement,” he said.
+
+## Are we going to see action on regulation in Canada? .
+
+In an interview with Bloomberg earlier this week, Prime Minister Mark Carney called for a global “technology stability” body. He said there is a need for international co-ordination and that “ultimately, a technology stability board, in our view, along the lines of the Financial Stability Board would make sense.”.
+
+Carney was in France on Wednesday, where he attended a speech by European Commission President Ursula von der Leyen.
+
+Von der Leyen said Europe is “in the position to shape global efforts on how to tackle” AI.
+
+“We will step up together with our like-minded partners like Canada, the United Kingdom and others. We want to team up on model evaluation, verification, early warning, AI security and much more,” she said.
+
+She said she would invite “the main frontier labs for a discussion on how we can support ongoing industry efforts to pace the frontier.”.
+
+Solomon was asked Wednesday whether Canada was going to lead the charge on a global technology stability body. He said that’s something Carney has talked to other leaders about.
+
+“These are not conversations that are coming out of thin air, nor are there conversations that one country is trying to take credit for,” he said.
+
+Trump, meanwhile, is claiming the mounting calls for regulation are the product of a conspiracy.
+
+“I am the Hoax Buster, and I’m right now breaking another Hoax — That AI is going to take over, consume, and destroy the World, and that Robots will be marching into our Cities, and getting rid of us all!” he wrote in one recent online post.
+
+He’s not the only skeptic. The French finance minister said Wednesday that calls to slow down AI development serve the interests of U.S. AI companies.
+
+Roland Lescure said they “are now coming from those at the top of the class … Making everyone behind them slow down so they can stay in first place,” Reuters reported.
+
+Karsten Wildberger, Germany’s digital transformation minister, appeared on Wednesday’s panel in Montreal alongside Solomon and Gomez.
+
+Wildberger told the audience the alliance between Germany and Canada — they signed an agreement on AI in Montreal a year ago — was “very much” about avoiding dependence on the U.S. and China.
+
+This report by The Canadian Press was first published Sept. 17, 2026. 
+
+Anja Karadeglija, The Canadian Press .
+
+## Related Stories .

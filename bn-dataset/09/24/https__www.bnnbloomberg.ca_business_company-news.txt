@@ -1,0 +1,8 @@
+Url: https://www.bnnbloomberg.ca/business/company-news
+Date: 2026-09-24
+Language: english
+Title: Company News - BNN Bloomberg
+
+# Company News - BNN Bloomberg.
+
+Meta Platforms is expected to unveil new smart glasses at its annual Connect conference on Wednesday, including a pair without cameras, amid growing privacy concerns about AI devices that can be used to record people without their consent.

@@ -1,0 +1,8 @@
+Url: https://www.bnnbloomberg.ca/press-releases
+Date: 2026-09-16
+Language: english
+Title: Press Releases - Latest Company News - BNN Bloomberg
+
+# Press Releases - Latest Company News - BNN Bloomberg.
+
+ZenaTech, Inc. (Nasdaq: ZENA) (FSE: 49Q) (BMV: ZENA) (“ZenaTech”), a technology solution provider specializing in AI (Artificial Intelligence) drone, Drone as a Service (DaaS), enterprise SaaS, and Quantum Computing solutions, announces that it has completed the acquisition of Merritt Paul Land Surveying, LLC (Merritt Paul), a land surveying firm based in Franklin, Georgia. Founded in 2015, Merritt Paul has built a track record providing surveying services to the solar, transportation and construction industries, including work for a major national transportation company, and specializes in utility-scale solar surveys across the U.S. The company is licensed to preform land surveys in 17 states. The acquisition marks ZenaTech’s 29th Drone as a Service acquisition to date.

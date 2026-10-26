@@ -1,0 +1,8 @@
+Url: https://www.bnnbloomberg.ca/markets/
+Date: 2026-09-14
+Language: english
+Title: Markets - BNN Bloomberg
+
+# Markets - BNN Bloomberg.
+
+Euro zone government bond prices recovered modestly on Friday, as the global debt market headed for its worst weekly performance since the start of the Iran war, battered by surging energy prices that are forcing central banks to act quickly to combat inflation.

@@ -1,0 +1,35 @@
+Url: https://www.ctvnews.ca/sci-tech/article/scientists-may-soon-be-able-to-read-more-ancient-scrolls-damaged-by-mount-vesuvius-eruption/
+Date: 2026-09-21
+Language: english
+Title: Mount Vesuvius: AI may help scientists read ancient scrolls
+
+# Mount Vesuvius: AI may help scientists read ancient scrolls.
+
+Recreating burned ancient scrolls and scanning them for lead may help scientists read some of the more complex writings that were buried following the eruption of Mount Vesuvius nearly 2,000 years ago, according to a new study . 
+
+After the volcano erupted in 79 AD, papyri scrolls were discovered in the ruins of an ancient library in Herculaneum, near Naples, Italy. The brittle, carbonized scrolls were buried under 65 to 70 feet of rock and ash.
+
+While researchers were previously able to read the writings in other scrolls by ancient thinkers like Greek philosopher Epicurus, many were “too fragile to study,” according to a press release shared Sept. 16 by the PLOS One journal. 
+
+But in a new study led by researchers at the University of California (UC) Berkeley, scientists discovered a new way to potentially read the long-lost texts.
+
+“With lead in the ink, you would get a huge friggin’ signature, so you really need to be looking for scrolls with lead in them,” Douglas Seiler, an affiliate of the University of California’s Berkeley SETI Research Center and co-author of the study, told Berkeley News . 
+
+“They’re having problems reading a lot of them because of the low contrast of carbon ink on carbon paper. We’re relatively certain that if they start searching for lead, or they let us search for lead, it will help this whole process. This is the Holy Grail.”.
+
+
+Scientists credit AI and X-ray tomography for enabling them to virtually “unroll” and read some scrolls. But the ink and papyrus – a thick paper used in ancient times – are made of similar materials, making it hard for X-rays to decipher the text.
+
+However, they found lead in some of the Herculaneum scroll letters. Since it’s easier for X-rays to differentiate between papyrus and lead, scientists in the new study suggest detecting lead in the scrolls, then trying to virtually unroll them.
+
+The authors of the new study suggested the new method by recreating carbonized scrolls.
+
+For the study, UC Berkeley scientists conducted tests using ink with different concentrations of lead to write on new papyrus. They then carbonized them in a furnace.
+
+“X-ray fluorescence was able to detect lead in the scrolls at each lead concentration level — and X-ray tomography, combined with a custom software program, allowed the team to re-read some of the words they had written on these scrolls,” according to the press release.
+
+The scientists also found that recreating carbonized scrolls could help improve the “unrolling” algorithms.
+
+“By knowing what’s written inside these recreated carbonized scrolls, researchers could train an algorithm to correctly decipher the text inside — possibly improving the algorithm’s success at reading ancient texts as well,” read the press release.
+
+## Related Stories .

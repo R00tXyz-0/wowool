@@ -1,0 +1,8 @@
+Url: https://www.bnnbloomberg.ca/press-releases/
+Date: 2026-09-22
+Language: english
+Title: Press Releases - Latest Company News - BNN Bloomberg
+
+# Press Releases - Latest Company News - BNN Bloomberg.
+
+Vecima Networks Inc. (TSX: VCM) today announced it will showcase a broad next-generation access portfolio at SCTE TechExpo 2026, taking place September 29 – October 1 in Atlanta, Georgia. Led by the launch of Entra® Intelligence, Vecima’s new AI-powered operational awareness platform for cable and fiber access networks, the showcase will feature live demonstrations spanning 50G-PON migration, DOCSIS® 4.0 deployments, simplified network operations, and new broadband and video service opportunities.

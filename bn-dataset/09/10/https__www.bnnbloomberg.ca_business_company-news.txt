@@ -1,0 +1,8 @@
+Url: https://www.bnnbloomberg.ca/business/company-news
+Date: 2026-09-10
+Language: english
+Title: Company News - BNN Bloomberg
+
+# Company News - BNN Bloomberg.
+
+Apple kicked off its annual product launch event at its Cupertino, California, headquarters, where it is widely expected to unveil a pricey folding iPhone.

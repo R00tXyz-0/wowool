@@ -1,0 +1,44 @@
+Url: https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/12/openai-agents-attacked-rubygems-before-hugging-face-incident-researchers-say/
+Date: 2026-09-12
+Language: english
+Title: OpenAI agents attacked RubyGems, researchers say
+
+# OpenAI agents attacked RubyGems, researchers say.
+
+AI agents being tested by OpenAI attacked software service RubyGems two months before they hacked open-source platform Hugging Face, researchers said, the latest revelation of cyberattacks linked to major AI developers that have spooked the public and spurred calls for tighter regulation.
+
+Many incidents where AI agents from developers such as OpenAI and rival Anthropic have hacked or attempted to access external systems have heightened concerns over the increasing capacity of AI models and developers’ ability to contain them.
+
+The latest revelation also comes as growing numbers of U.S. lawmakers call for new rules to govern AI systems after dire warnings from two Anthropic researchers that rapidly progressing AI could lead to the extinction of the human race in the not-too-distant future.
+
+AI agents uploaded hundreds of malicious packages to RubyGems on May 11, according to a group of researchers who posted their findings online on Friday, saying they believed “these were authored by internal OpenAI agents.”.
+
+OpenAI confirmed the incident.
+
+“Based on our review, our agents used the RubyGems platform to access the internet to carry out benign tasks and retrieve public information. We’ll continue to investigate as part of our broader review of agent activity during training and evaluation,” an OpenAI spokesperson said in a statement.
+
+The agents, which are generally tasked with assignments such as creating reports or filling out spreadsheets, appear to have used RubyGems to access publicly available data as part of a training run, OpenAI said, adding that they are in touch with RubyGems to review the incident.
+
+## Latest revelation of attacks by AI agents .
+
+IPO-bound rival Anthropic has also reported a string of attacks by its agents. On Wednesday, it disclosed a fourth instance of an AI model hacking external systems during testing.
+
+For OpenAI, which is also gearing up for an IPO, the RubyGems attack would mark at least the third major instance where its agents attacked another company’s infrastructure.
+
+A swarm of OpenAI agents previously hijacked a German-language wiki site and turned it into an improvised messaging platform for cheating on tests, an incident that OpenAI kept secret as it dealt with the fallout from the July hack of the open-source repository Hugging Face.
+
+The AI agents in May tried to steal RubyGems user credentials by exploiting a previously unknown vulnerability in the site’s servers, though it is unclear whether the attempt succeeded, the researchers said on Friday.
+
+The agents also exploited RubyDoc.info , a site that generates code documentation, to run their own code on its servers, they said. 
+
+AI researchers Spencer Kitts, Thomas Larsen and Sydney Von Arx said it was not clear why the AI agents chose this strategy or whether it was successful as they do not have access to the rest of the AI behaviour.
+
+In a blog post on Friday, RubyGems said its own investigation found no evidence the attempts succeeded. It said the company could not determine if the packages in the “spam-publishing campaign” were created or published by AI agents.
+
+A member of RubyGems’ security team in May described the incident — which forced the company to temporarily pause new account registrations — as a “major malicious attack.”.
+
+The Wall Street Journal first reported the RubyGems incident on Friday.
+
+Reporting by Natalia Bueno Rebolledo, Chris Thomas, Mrinmay Dey in Mexico City; Editing by Tasim Zahid and Kim Coghill .
+
+## Related Stories .

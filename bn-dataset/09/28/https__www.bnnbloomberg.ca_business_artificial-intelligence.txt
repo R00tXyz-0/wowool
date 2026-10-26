@@ -1,0 +1,8 @@
+Url: https://www.bnnbloomberg.ca/business/artificial-intelligence/
+Date: 2026-09-28
+Language: english
+Title: Artificial Intelligence - BNN Bloomberg
+
+# Artificial Intelligence - BNN Bloomberg.
+
+Meta has been testing a “human concierge” for its new personal AI assistant, Muse, which entails having human contractors quietly handle some of the phone calls placed via the digital agent, according to internal company posts seen by Reuters.

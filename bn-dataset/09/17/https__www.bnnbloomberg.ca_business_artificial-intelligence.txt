@@ -1,0 +1,8 @@
+Url: https://www.bnnbloomberg.ca/business/artificial-intelligence/
+Date: 2026-09-17
+Language: english
+Title: Artificial Intelligence - BNN Bloomberg
+
+# Artificial Intelligence - BNN Bloomberg.
+
+Anthropic’s Dario Amodei, OpenAI’s Sam Altman, SpaceXAI’s Elon Musk and other prominent industry leaders have said in recent days that AI’s development needs to slow down. The consensus came after an Anthropic researcher resigned with a dire warning about the threats the technology poses to humanity.

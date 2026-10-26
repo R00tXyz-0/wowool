@@ -1,0 +1,32 @@
+Url: https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/08/31/chatgpt-becomes-first-ai-chatbot-to-face-tougher-eu-rules/
+Date: 2026-09-01
+Language: english
+Title: AI news: ChatGPT, Reddit and Roblox facing EU safety rules
+
+# AI news: ChatGPT, Reddit and Roblox facing EU safety rules.
+
+ChatGPT will have to comply with tougher safety rules after the EU added it Monday to a list of digital services subject to greater legal scrutiny, a first for an AI chatbot.
+
+Brussels also designated Reddit and Roblox as “very large” online platforms, a label that comes with additional obligations and oversight.
+
+“ChatGPT, Reddit and Roblox will now be held to a higher standard of scrutiny and accountability in the European Union, in line with their large impact on our citizens and society,” EU technology chief Henna Virkkunen said.
+
+The “very large” designation applies to platforms and search engines with more than 45 million monthly active users in the 27-nation bloc, a threshold ChatGPT, Reddit and Roblox reported meeting, the commission said.
+
+The three now have four months to comply with additional obligations under the Digital Services Act (DSA), a content law that is a major weapon in the legal armoury the EU has deployed to rein in Big Tech in recent years.
+
+These include “assessing and mitigating the systemic risks stemming from their service and algorithmic systems related to the dissemination of illegal content, the negative effects on minors, users’ physical and mental well-being, fundamental rights, electoral processes and public security,” Brussels said.
+
+To bring it under the DSA’s regulatory umbrella, the commission qualified ChatGPT as a search engine.
+
+Lena-Maria Boswald, of the German tech think tank Interface, said ahead of the announcement that the expected move would set a “precedent” and “influence the regulatory expectations for every large generative AI system used in the EU.”.
+
+“OpenAI already has risk-management obligations under the AI Act, but the DSA could widen the scope,” she said.
+
+The widened scrutiny will also apply to Roblox, a gaming platform that lets people build their own games and share them with others, and Reddit, the popular online forum.
+
+The designations come as the EU has stepped up regulatory enforcement against the world’s biggest digital platforms, including many American ones, despite strong U.S. pushback and threats of retaliation.
+
+It recently told TikTok, one of the about 30 other listed platforms, to change what it deemed its addictive design or face heavy fines.
+
+And last year it hit Elon Musk’s social media platform X with a 120-million-euro (US$138 million) fine for breaching transparency obligations and other violations.

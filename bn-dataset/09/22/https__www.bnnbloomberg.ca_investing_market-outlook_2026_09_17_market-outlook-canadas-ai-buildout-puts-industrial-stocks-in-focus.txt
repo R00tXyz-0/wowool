@@ -1,0 +1,70 @@
+Url: https://www.bnnbloomberg.ca/investing/market-outlook/2026/09/17/market-outlook-canadas-ai-buildout-puts-industrial-stocks-in-focus/
+Date: 2026-09-22
+Language: english
+Title: Four Canadian stocks poised to benefit from AI growth
+
+# Four Canadian stocks poised to benefit from AI growth.
+
+Canada’s emerging data centre industry could give investors exposure to the AI boom through construction, industrial and power companies. A major buildout is expected to create opportunities extending well beyond technology stocks.
+
+BNN Bloomberg spoke with John Gibson, industrials and Canadian energy services analyst at BMO Capital Markets, about the potential scale of the expansion and why infrastructure-related companies could have years of growth ahead.
+
+## Key Takeaways .
+
+ * Bird Construction could benefit from its involvement in Bell’s AI Fabric project in Saskatchewan and its position for additional work. 
+
+ * Finning International and Toromont Industries offer exposure to backup and prime power equipment needed for data centres. 
+
+ * TransAlta could provide contracted power to hyperscale technology companies using its existing sites in Alberta. 
+
+ * Canada could eventually develop between 15 and 20 gigawatts of data centre capacity, compared with an estimated North American market of 200 gigawatts. 
+
+ * Power availability, equipment lead times and cooling requirements remain major bottlenecks for proposed data centre projects. 
+
+Read the full transcript below: .
+
+ROGER: This week’s Canadian Investment Summit put a spotlight on AI infrastructure and where Canada fits into the next wave of investment. A new report from BMO Capital Markets argues the data centre buildout could create opportunities across construction, power and industrial names. Let’s get more on this from John Gibson, industrials and Canadian energy services analyst at BMO Capital Markets. John, thanks very much for joining us. 
+
+JOHN: Morning. Thanks for having me. 
+
+ROGER: OK, the buildout, it could be big, could be bigger as well. Who do you see benefiting from the industrial side? .
+
+JOHN: Yeah, thanks. This is a joint report done, you know, by several analysts. So, my pick is Bird Construction. You know, it’s the anchor tenant for Bell AI Fabric’s original 300-megawatt facility in Saskatchewan, which has already broken ground. And earlier this week, that facility just went up to 1.2 gigawatts. Now, you know, Bird hasn’t been selected as the partner for, you know, the additional 900 megawatts, but I think it’s very well positioned here to win more work, especially with Bell, you know, positioning with Canadian partners here. 
+
+You know, my colleague Devin Dodge, who covers industrial names here, he likes Finning and Toromont. You know, Finning. You know, I think Devin thinks Finning is really well suited for some of the backup power and prime power solutions in Western Canada, while Toromont’s AVL business is capturing significant awards and ramping production capacity. So, two names on the power side that Devin likes.
+
+Last, you know, Ben Pham. He covers infrastructure names here. His pick for this buildout is TransAlta. You know, it offers the highest leverage in his coverage to the buildout in Alberta, particularly with the ability to provide contracted power to hyperscalers on existing sites. So, you know, four names that kind of touch a variety of the buildout from a construction, industrial and infrastructure lens. But we think these names all have, you know, multiyear, you know, multiyear running room going forward here.
+
+DAN: And John, when you think about just the scope of the buildout, what is the, call it, peak deliveries in terms of gigawatts that we could see in Canada? .
+
+JOHN: Well, it’s a little unknown at this time, but we’re kind of looking at 15 to 20 gigawatts. You know, our estimate of the total addressable market, or of demand, is about 200 gigawatts across North America, you know, call it over the next 10 years. There’s about 50 watts, 50 gigawatts built already. Canada really has minimal share of that right now. We really haven’t seen a large data centre in Canada, whereas, you know, the buildout has been in the U.S. for several years now. 
+
+That being said, the Bell facility broke ground here, you know, a few months ago or a month ago, and we see, you know, significant opportunities here in Canada as we move forward. A, because we haven’t really built much in terms of the larger-scale data centres, and B, there’s so much demand out there, and Canada has developed a pretty solid framework for building these things and attracting capital. But yeah, overall, it’s, you know, in the realm of 15 to 20 gigawatts of buildout here in Canada from, you know, essentially zero right now.
+
+DAN: And maybe just one more thing to build on in terms of just when you see the push, as we look to the, call it, more the hard yards of the buildout beyond breaking ground. Is there enough behind-the-meter power already sequestered, or are the air rights and the things, the permitting, that’s, you know, gummed up the process in areas like Tennessee, so on and so forth, is that already basically done and accounted for, or are these, call it, problems for the future and teething problems to handle later on? .
+
+JOHN: I wouldn’t say it’s done and accounted for, but I think what differentiates Canada is our access to cheap natural gas. You know, the facility right now in Saskatchewan that Bell is building, that’s a, you know, that’s one that’s going to be powered by the grid. The one in Alberta with Meta, that is a, you know, behind-the-meter power project, so it has, you know, incremental costs on. 
+
+But I think Canada, again, is very well positioned here because of our access to natural gas, and it’s going to help solve a lot of those problems that they’re running into in the U.S. Not that all those regions don’t have access to natural gas; a lot of them do. But Canada is very well, very well positioned here.
+
+You know, the issue is the lead times for some of this backup power equipment are long, and that’s an issue I think that’s going to just more extend the duration of this buildout. It’s going to limit the ability to, you know, build some of these projects very quickly. You know, that’s why we like some of the names like Finning, Toromont — or Devin does, sorry. But yeah, I think Canada has some pretty good solutions here as we move forward.
+
+ROGER: And the buildout with the AI centres. I mean, you mentioned Saskatchewan and Alberta. Is that going to be the focal point for it, do you think, or will we see large projects like that using electricity, hydroelectricity, here in Ontario or in Quebec? .
+
+JOHN: Ontario. I think — my apologies. My camera is giving me some issues. Alberta and Saskatchewan are definitely at the forefront. You know, both premiers in these provinces have come out in support of the buildout, but Ontario has as well. Ontario has developed a pretty strong framework, and we will see projects in Ontario. That’s actually been where most of the buildout has started. Some of the smaller centres are currently operating in Ontario, but I think Alberta, Saskatchewan and Ontario right now are pretty attractive provinces. 
+
+ROGER: OK, what are the potential bottlenecks for this, then, for these companies? .
+
+JOHN: Again, power is number one. Backup power is an issue. Obviously, there are long lead times for these things and, you know, the issues in terms of powering on the grid versus using behind-the-meter. I think Canada has a pretty attractive solution there. 
+
+The other bottleneck is cooling, liquid cooling. Especially as these data centres get larger in size, they require more cooling, and it adds to the costs. So, I think Canada, from that perspective, is a little better positioned because the climate’s a little bit colder here. But I think those two bottlenecks are definitely power and cooling.
+
+ROGER: All right, John, we have to wrap it up there, but thanks very much for joining us. 
+
+JOHN: Thanks for having me. 
+
+ROGER: John Gibson, industrials and Canadian energy services analyst at BMO Capital Markets. 
+
+---.
+
+This BNN Bloomberg summary and transcript of the Sept. 17, 2026 interview with John Gibson are published with the assistance of AI. Original research, interview questions and added context was created by BNN Bloomberg journalists. An editor also reviewed this material before it was published to ensure its accuracy and adherence with BNN Bloomberg editorial policies and standards. 

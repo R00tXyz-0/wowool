@@ -1,0 +1,50 @@
+Url: https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/15/ai-finance-is-here-but-scaling-hurdles-abound-fintech-execs/
+Date: 2026-09-16
+Language: english
+Title: Canada Fintech: Banks discuss use of AI in finance
+
+# Canada Fintech: Banks discuss use of AI in finance.
+
+MONTREAL — Banks are looking to ramp up artificial intelligence use for millions of customers, but executives say hurdles abound and checks need to be built in.
+
+At the Canada Fintech Forum on Tuesday, banking and tech leaders said financial institutions have yet to weave AI through a majority of their systems, such as apps and data storage, even as the industry blazes a trail in machine learning adoption.
+
+Michael Pelosi, the country manager for Canada at Toronto-based AI company Cohere, called it a “misconception” that an AI model smoothly doling out financial advice in a controlled test environment can do likewise for millions of clients.
+
+“The hard truth that a lot of banks are seeing now is, doing things in small batches ... is very, very different — as a lot of the folks on the panel today can attest — than going into production,” Pelosi told several hundred conference attendees, pointing to cost as a particular challenge.
+
+He offered the analogy of staying in an oversized vacation property — fine for a short stint, but not at length or scale.
+
+“My wife wants us to get this big house to rent. Overkill. We don’t need all of these bedrooms, we don’t need all of the features in this house … and I say, ‘OK, it’s expensive, but it’s just for a weekend.’.
+
+“Now, if she had told me, ‘I want to do this for 365 days a year,’ that becomes a problem.”.
+
+Fintech firms are forging ahead with machine-learning technology for everything from mortgage application assessments to customer service.
+
+More than 30 per cent of finance and insurance firms were using AI last year, according to a Statistics Canada analysis. That uptake places banks among the biggest AI adopters, far above sectors such as hospitality and food services, for example, where AI use sat at 1.5 per cent.
+
+But in many ways, the user experience remains unchanged, with banking apps roughly the same as four years ago, Pelosi said.
+
+So far, security concerns and the cost of deploying machine-learning models on a massive scale have deterred broader uptake by banks, said Stephanie Hazlewood, a senior director at RBC . But in her eyes, the still rapid pace of adoption at the Big Five and beyond makes safety and accountability all the more crucial. 
+
+“We have a lot of data and we’re excited to be able to use that information to drive business value. But it’s also very important to remember that the care of the data is really what enables the value. And the care is expensive,” she said.
+
+The stakes are especially high when life savings and boatloads of investor funds factor in, necessitating further caution.
+
+Pelosi pointed to an appeal from Anthropic CEO Dario Amodei over the weekend to “slow down” and impose greater checks on the industry — a call echoed by other AI leaders.
+
+“It’s an incredible technology, but it will cause a massive headline one day,” Pelosi said.
+
+“When you think about rolling this out to millions of consumers at a bank, people are somewhat terrified that they’re going to be the headline: ‘Grandmother loses life savings’ because the agent acted on their behalf.”.
+
+On top of corporate accountability for financial choices made by an AI agent, “traceability” — being able to pinpoint how a given decision came about — should act as another key constraint, said Tess Bloch, co-founder of Spade, an AI platform for transaction data.
+
+“Identify the source, identify the data point underlying that decision and do not have a fully black box,” she said.
+
+---.
+
+Christopher Reynolds, The Canadian Press .
+
+This report by The Canadian Press was first published Sept. 15, 2026. 
+
+## Related Stories .

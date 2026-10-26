@@ -1,0 +1,72 @@
+Url: https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/09/23/ais-dangers-real-and-imminent-canadian-ai-pioneer-yoshua-bengio-tells-un/
+Date: 2026-09-24
+Language: english
+Title: AI dangers 'real and imminent,' Yoshua Bengio tells UN
+
+# AI dangers 'real and imminent,' Yoshua Bengio tells UN.
+
+OTTAWA — Canadian AI pioneer Yoshua Bengio and the heads of two major American AI companies pleaded with the United Nations on Wednesday to set controls on the burgeoning technology.
+
+Bengio told the UN Security Council Wednesday that AI poses an “unprecedented threat.”.
+
+“One that none of its members would choose, that none can contain alone, and that does not respect the borders we defend,” Bengio said, in a copy of his prepared remarks.
+
+Dario Amodei, the CEO of Anthropic, and Sam Altman, CEO of OpenAI, also made presentations to the Security Council, warning the council must set actual controls to prevent the technology from becoming too powerful to rein in.
+
+“If managed poorly, I even believe AI could be a risk to humanity as a whole,” said Amodei.
+
+“We could lose control of the future to AI,” Altman warned.
+
+The dire warnings come as alarm has grown in recent weeks about the risks AI poses to humans amid documented cases of AI bots disregarding human instructions.
+
+That included a claim from an AI researcher who worked at both OpenAI and Anthropic that those building the technology “earnestly believe that it could kill us all by the end of the decade.”.
+
+OpenAI disclosed over the summer that its AI agents hacked AI startup Hugging Face without being instructed by any human to do so.
+
+On Wednesday, Bengio urged the Security Council not to dismiss the warnings as a marketing stunt.
+
+“I understand the distrust, but let me be clear. These AI behaviours are well documented and validated by many independent experts,” he said. “The dangers are real and imminent.”.
+
+He said that although “the future remains uncertain and debated, the severity of these risks is extraordinary.”.
+
+But Bengio said there are also solutions, including international agreements on technical solutions that would make AI safe by design.
+
+His remarks came a day after Canada joined 19 other countries in issuing a joint statement during the UN General Assembly calling for stronger oversight of AI, even as the United States continued to reject any effort to regulate the technology.
+
+Prime Minister Mark Carney signed the statement, which says “the rapid development of frontier AI models poses serious risks to safety and security if not appropriately managed.”.
+
+“Recently, we have seen capable AI systems circumventing testing safeguards, exploiting vulnerabilities and gaining unauthorized access to real-world systems,” the statement says.
+
+It says UN member states should “explore creating an international institution, able to set standards, enable verification, and convene states when capability thresholds are crossed.”.
+
+Other countries that signed the statement include Finland, Norway, Germany, Ireland, South Africa and Turkiye.
+
+The statement came out on the same day U.S. President Donald Trump told the UN General Assembly that the United States rejects any attempt to “construct a globalist scheme” to regulate artificial intelligence.
+
+Experts cautioned Wednesday that Canada and other countries are limited in what they can do without the United States and China on board. Both countries are among the five permanent members of the UN Security Council.
+
+Florian Martin-Bariteau, research chair in technology and society at the University of Ottawa, said a “middle power collaboration network” would be great.
+
+“But if we want to be really impactful on the global stage, you need to ensure that especially China and the U.S. are part of this conversation,” he said, adding: “I do not think that they’re very keen on such oversight and cooperation.”.
+
+Duncan Cass-Beggs, executive director of the global AI risks initiative at the Centre for International Governance Innovation, said what’s needed “first and foremost” is a deal between the U.S. and China on AI safety.
+
+“It may not be an elaborate treaty, it might be just a handshake or an agreement...but ultimately what it requires is both of those countries recognizing that the potential risks are close and real, that they both have an interest in not allowing the development of autonomous superintelligence systems until they can be controlled.”.
+
+He said Canada and other countries should be “figuring out how they can support and facilitate” that kind of agreement.
+
+Artificial Intelligence Minister Evan Solomon said Wednesday Canada is working with other countries on AI safety, but suggested the government isn’t taking a leading role internationally.
+
+Solomon told reporters in Ottawa he met with his international counterparts after Carney spoke recently to other leaders about setting up a “technology stability” board to regulate AI.
+
+“We are absolutely advocating alongside our partners to work together to set up … regulation on AI safety and reliability,” Solomon said.
+
+But when he was asked whether Canada is taking a leadership role in those efforts, Solomon pointed to domestic legislation, including proposed regulations on AI chatbots.
+
+He also said Canada is taking a “very leading” role by investing $150 million in Bengio’s efforts to build a safer AI.
+
+This report by The Canadian Press was first published Sept. 23, 2026. 
+
+-- With files from The Associated Press .
+
+## Related Stories .

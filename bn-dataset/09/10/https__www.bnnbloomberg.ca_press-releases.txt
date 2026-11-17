@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/press-releases/
-Date: 2026-09-10
-Language: english
-Title: Press Releases - Latest Company News - BNN Bloomberg
-
-# Press Releases - Latest Company News - BNN Bloomberg.
-
-GLOBEX MINING ENTERPRISES INC. (GMX – Toronto Stock Exchange, G1MN – Frankfurt, Stuttgart, Berlin, Munich, Tradegate, Lang & Schwarz, LS Exchange, TTMzero, Düsseldorf and Quotrix Düsseldorf Stock Exchanges and GLBXF – OTCQX International in the US) is pleased to announce that Emperor Metals Inc. (Emperor) have reported additional results from the its 2026 exploration campaign at the Duquesne West Project, which is under option from Duparquet Assets Ltd, a 50% owned subsidiary of Globex. The program comprised 20,479 metres of new drilling and approximately 7,884 metres of previous unsampled historical core, generating more than 28,000 metres of combined drilling data to further refine and expand the resource model.

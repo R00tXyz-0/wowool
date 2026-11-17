@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/business/international
-Date: 2026-09-14
-Language: english
-Title: International - BNN Bloomberg
-
-# International - BNN Bloomberg.
-
-Euro zone government bond prices recovered modestly on Friday, as the global debt market headed for its worst weekly performance since the start of the Iran war, battered by surging energy prices that are forcing central banks to act quickly to combat inflation.

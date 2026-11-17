@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/business/company-news
-Date: 2026-09-28
-Language: english
-Title: Company News - BNN Bloomberg
-
-# Company News - BNN Bloomberg.
-
-Microsoft on Friday unveiled several new capabilities in its Copilot app, including a coding tool and an always-on AI agent, as the software giant seeks to transform its AI assistant into a one-stop shop for office workers.

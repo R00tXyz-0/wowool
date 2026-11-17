@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/business/company-news
-Date: 2026-09-04
-Language: english
-Title: Company News - BNN Bloomberg
-
-# Company News - BNN Bloomberg.
-
-Even as they up its financial forecast, executives at BRP Inc. say they expect tariffs will cost the Ski-Doo maker $425 million over two years, despite a series of cost-cutting measures aimed at offsetting the trade war toll.

@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/happening-now/
-Date: 2026-09-28
-Language: english
-Title: Happening Now – BNN Bloomberg
-
-# Happening Now - BNN Bloomberg.
-
-Here's what investors will be watching for in the week ahead.

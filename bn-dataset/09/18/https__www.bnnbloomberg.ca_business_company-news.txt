@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/business/company-news
-Date: 2026-09-18
-Language: english
-Title: Company News - BNN Bloomberg
-
-# Company News - BNN Bloomberg.
-
-The U.S. government has approved up to US$414 million in financing for a uranium project in Niger, according to the project’s developer, in what sources described as a win for Washington two years after the West African nation expelled all U.S. forces.

@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/press-releases/
-Date: 2026-09-05
-Language: english
-Title: Press Releases - Latest Company News - BNN Bloomberg
-
-# Press Releases - Latest Company News - BNN Bloomberg.
-
-POET Technologies Inc. (“POET” or the “Company”) (NASDAQ: POET), the designer and developer of Photonic Integrated Circuits (PICs), light sources and optical modules for the AI and data center markets, today announced that it will exhibit at the 2026 China International Optoelectronic Expo (CIOE), taking place September 9-11, 2026, at the Shenzhen World Exhibition and Convention Center.

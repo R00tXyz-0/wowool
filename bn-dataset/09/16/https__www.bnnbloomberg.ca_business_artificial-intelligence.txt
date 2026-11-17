@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/business/artificial-intelligence/
-Date: 2026-09-16
-Language: english
-Title: Artificial Intelligence - BNN Bloomberg
-
-# Artificial Intelligence - BNN Bloomberg.
-
-New warnings from within the artificial intelligence industry have revived a long-running debate over whether advanced AI could escape human control and ultimately threaten humanity’s survival, and whether the companies developing the technology are doing enough to prevent such a scenario.

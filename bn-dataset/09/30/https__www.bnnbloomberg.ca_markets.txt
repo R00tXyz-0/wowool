@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/markets/
-Date: 2026-09-30
-Language: english
-Title: Markets - BNN Bloomberg
-
-# Markets - BNN Bloomberg.
-
-Top Picks from Paul Harris, Portfolio Manager, Harris Douglas Asset Management, Inc.

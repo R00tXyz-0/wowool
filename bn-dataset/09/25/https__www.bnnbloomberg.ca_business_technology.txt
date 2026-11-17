@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/business/technology
-Date: 2026-09-25
-Language: english
-Title: Technology - BNN Bloomberg
-
-# Technology - BNN Bloomberg.
-
-Apple’s latest mobile operating system update, iOS 27, rolled out last week, headlined by a more advanced version of its Siri assistant. But it also comes with a slew of other useful but less well known features for iPhone users.

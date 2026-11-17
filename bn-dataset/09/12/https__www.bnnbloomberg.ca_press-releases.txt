@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/press-releases/
-Date: 2026-09-12
-Language: english
-Title: Press Releases - Latest Company News - BNN Bloomberg
-
-# Press Releases - Latest Company News - BNN Bloomberg.
-
-Apollo Silver Corp. (“Apollo” or the “Company”) (TSX.V:APGO, OTCQB:APGOF, Frankfurt:6ZF) reports that Ejido Benito Juárez (the “Ejido”), located in Buenaventura Municipality, Chihuahua, Mexico, has scheduled a community assembly at which members of the Ejido are expected to vote on lifting the moratorium on mineral exploration and development affecting lands which include the Cinco de Mayo project (the “Project”), which is optioned by the Company, as well as the acceptance of a long-term access agreement.

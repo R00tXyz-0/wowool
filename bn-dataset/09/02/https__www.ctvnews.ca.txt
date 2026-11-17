@@ -1,8 +1,0 @@
-Url: https://www.ctvnews.ca/
-Date: 2026-09-02
-Language: english
-Title: CTV News – Breaking News and Video, Canada News Today
-
-# CTV News - Breaking News and Video, Canada News Today.
-
-Vassy Kapelos hosts Power Play, talking to the people and players who dominate the political scene in Canada.

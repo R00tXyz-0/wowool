@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/business/artificial-intelligence/
-Date: 2026-09-02
-Language: english
-Title: Artificial Intelligence - BNN Bloomberg
-
-# Artificial Intelligence - BNN Bloomberg.
-
-Russian-speaking hackers used SpaceX’s AI coding assistant, Cursor, to help break in to a Belgian chemical company and at least six other firms earlier this year, according to data reviewed by Reuters and reports issued on Thursday by cybersecurity companies Gambit Security and CloudSek.

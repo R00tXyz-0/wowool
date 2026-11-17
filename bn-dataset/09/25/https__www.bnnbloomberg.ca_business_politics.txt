@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/business/politics
-Date: 2026-09-25
-Language: english
-Title: Politics - BNN Bloomberg
-
-# Politics - BNN Bloomberg.
-
-The federal government will not reverse a decision to close several agricultural research facilities across the country, a move the opposition Conservatives are calling a threat to Canada’s food security.

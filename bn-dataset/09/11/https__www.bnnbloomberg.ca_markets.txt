@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/markets
-Date: 2026-09-11
-Language: english
-Title: Markets - BNN Bloomberg
-
-# Markets - BNN Bloomberg.
-
-Barclays raised its year-end target for the benchmark S&P 500 index .SPX to 7,950 from 7,800 on Wednesday, following a standout earnings season led by technology companies.

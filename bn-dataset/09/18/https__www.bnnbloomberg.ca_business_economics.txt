@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/business/economics
-Date: 2026-09-18
-Language: english
-Title: Economics - BNN Bloomberg
-
-# Economics - BNN Bloomberg.
-
-Statistics Canada says wholesale sales, excluding petroleum, petroleum products, and other hydrocarbons and excluding oilseed and grain, rose 0.3 per cent to $93.1 billion in July.

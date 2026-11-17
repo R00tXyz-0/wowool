@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/investing/opinion/
-Date: 2026-09-22
-Language: english
-Title: Opinion - BNN Bloomberg
-
-# Opinion - BNN Bloomberg.
-
-Corporate earnings remain a powerful support for equities, but the bar for companies is getting higher. Resurging oil prices and elevated bond yields have brought inflation, valuations, and central-bank policy back into sharper focus, while strong earnings expectations leave less room for disappointment.

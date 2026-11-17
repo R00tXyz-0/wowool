@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/investing/market-outlook/
-Date: 2026-09-30
-Language: english
-Title: Market Outlook - BNN Bloomberg
-
-# Market Outlook - BNN Bloomberg.
-
-Canadian dividend ETFs offer different approaches to fees, income and diversification through low-cost, dividend-growth and high-yield strategies.

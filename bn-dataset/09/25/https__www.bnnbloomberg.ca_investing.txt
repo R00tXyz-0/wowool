@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/investing
-Date: 2026-09-25
-Language: english
-Title: Investing Insights, Market Trends News and Analysis – BNN Bloomberg
-
-# Investing Insights, Market Trends News and Analysis - BNN Bloomberg.
-
-U.S. long-dated Treasury yields rose to their highest in more than 20 years on Thursday, extending a selloff that has accelerated of late on worries that high energy costs, resilient economic growth and increased government spending will keep inflation elevated.

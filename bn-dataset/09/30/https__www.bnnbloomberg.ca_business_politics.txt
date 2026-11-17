@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/business/politics
-Date: 2026-09-30
-Language: english
-Title: Politics - BNN Bloomberg
-
-# Politics - BNN Bloomberg.
-
-Calgary could lose between 44,000 and 69,000 jobs if Alberta separates and trade costs rise, according to a new report commissioned by the Calgary Chamber of Commerce.

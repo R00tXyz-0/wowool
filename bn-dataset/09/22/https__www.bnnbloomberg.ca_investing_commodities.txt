@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/investing/commodities/
-Date: 2026-09-22
-Language: english
-Title: Commodities - BNN Bloomberg
-
-# Commodities - BNN Bloomberg.
-
-Investors, food companies and commodities traders, driven by fears that the El Niño climate event could hurt global sugar production, drove record-high open interest in sugar contracts last week, the Intercontinental Exchange said on Wednesday.

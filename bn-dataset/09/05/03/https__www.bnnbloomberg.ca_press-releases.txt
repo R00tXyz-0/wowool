@@ -1,8 +1,0 @@
-Url: https://www.bnnbloomberg.ca/press-releases/
-Date: 2026-09-03
-Language: english
-Title: Press Releases - Latest Company News - BNN Bloomberg
-
-# Press Releases - Latest Company News - BNN Bloomberg.
-
-BenchSci, a leading provider of AI software for biopharma research and development, today announced a two-year enterprise agreement with argenx, a global immunology innovation company, to deploy EMET, BenchSci’s agentic research environment for preclinical drug discovery, within the organization. Selected through a competitive evaluation led by argenx’s own scientists, the agreement represents a significant milestone in BenchSci’s expansion across European biopharma.
